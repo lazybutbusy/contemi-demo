@@ -1,6 +1,13 @@
 # Contemi-Demo
 
-## Step 1: Crawl website
+## Step 0: Install dependencies
+Run the following command to install the required dependencies:
+```
+pip install -r requirements.txt
+```
+
+## Step 1 (Optional): Crawl website
+*Note: This step is optional because the data has already been crawled into **website-content**.*
 Run the following script:
 ```
 python crawl_website.py
