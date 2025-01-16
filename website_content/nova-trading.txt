@@ -1,0 +1,176 @@
+URL: https://nova.contemi.com/nova-trading/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h1 : Streamline and Automate Real-Time Trade Processing 
+  div:
+   div:
+    div:
+     h4 : Complete Solution 
+     p : With the complexity and volume of corporate action events increasing, the NOVA Corporate Actions provides a centralised and reconciled view of corporate actions across all markets, asset classes or currencies. 
+    span : Know More (https://nova.contemi.com/contact-us)
+   div:
+    div:
+     h4 : Simple & Flexible 
+     p : The platform allows users to define and create corporate action types and workflow instead of depending on development changes, thereby significantly increasing efficiency and enabling faster time to market. 
+    span : Know More (https://nova.contemi.com/contact-us)
+   div:
+    div:
+     h4 : Events Agnostic 
+     p : The NOVA platform supports corporate actions from cash dividends, bonus issue, share split, consolidation, interest payment and more 
+    span : Know More (https://nova.contemi.com/contact-us)
+  p : NOVA Trade encompasses features related to the initiation and management of client and market transactions, utilizing both manual input and automated procedures (subject to Stock Exchange regulations). It offers capabilities such as automated computation of all market transactions based on stock exchange actions, comparison of executions against client trades/orders for consistency, customizable contract notes and trade confirmations, and additional functionalities. 
+  div:
+   h2 : Benefits 
+   div:
+    span : Trading 
+    p : Supports both Agency and Principal
+NOVA Trade supports both Agency and Principal trading from the entry of Agency and Principal trade legs to the monitoring and revaluation of Principal positions in the NOVA Book module. 
+   div:
+    span : Multi-Market, Multi-Currency, Multi-Entity 
+    p : From settlement date calculation rules of the region, setting market related processing rules, to option to settle in a different
+currencies; NOVA platform handles it all. 
+   div:
+    span : Auto-Management of Exceptions 
+    p : User selected options are provided for the treatment of exceptions encountered through the entry of the party/account as part of the trade. Such exceptions may include an abnormal status; the absence of completed agreements, account appearing on a blacklist, and more 
+  div:
+   div:
+    h2 : Features 
+    span : Automatic Upload of Market Executions 
+    span : Matching of Executions to Client Trades or Orders 
+    span : Pick-List of Unmatched Executions for the Market Side of a Trade 
+    span : On Screen Reconciliation of Market Executions & Client Trades/Orders 
+    span : One-to-One, One-to-Many and Many-to-Many Trade Matching 
+    span : Price Tolerance Verification 
+    span : Exchange Rate Tolerance Verification 
+    span : Accrued Interest for Fixed Interest 
+    span : Entry of Block or Confirmed [Allocated] Trade 
+   div:
+    span : Futures and Options: Margins 
+    span : Speciy Charges by Client or Instrument 
+    span : Automatic Generation of Settlement Instructions(SI) 
+    span : On Screen Modification of Settlement Instructions 
+    span : Trade Confirmations and Contract Notes 
+    span : Trade Reports Generations 
+    span : Trade Execution Allocations 
+    span : FX Trade Booking & Allocation 
+  div:
+   div:
+    div:
+     span : Improve Operational Efficiency 
+     p : with automated Striaght Through Processing and multi tier architecture 
+    div:
+     span : Reduce Cost 
+     p : operate more efficiently, and minimise risk with cloud-hosted infrastructure 
+   div:
+    div:
+     span : Scalable & Future-Ready 
+     p : with multi tier architecture enabling load balancing and increased security 
+    div:
+     span : Lower Security Risks 
+     p : multi tier architecture that isolates critical data under several encrypted layers 
+   div:
+    div:
+     span : Strong Clearing & settlement 
+     p : ecosystem with direct interface with all major CSDs across APAC 
+    div:
+     span : Improve Compliance 
+     p : to ever-eveolving regulatory requirements across multiple jurisdictions 
+  span : Contact Us for More Details 
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

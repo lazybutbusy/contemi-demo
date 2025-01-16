@@ -1,0 +1,221 @@
+URL: https://nova.contemi.com/nova-post-trade-team/
+body:
+ div:
+  ul:
+   li:
+    span : Who We Serve 
+    ul:
+     span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+     span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+   li:
+    span : Solutions (#)
+    ul:
+     span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+     span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+     li:
+      span : Nova CORE 
+      ul:
+       span : Trading (https://nova.contemi.com/nova-trading/)
+       span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+       span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+     span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+     span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+     span : Nova Custody (https://nova.contemi.com/nova-custody/)
+     span : Nova Payments (https://nova.contemi.com/nova-payments/)
+     span : Nova Margin (https://nova.contemi.com/nova-margin/)
+     span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+     span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+     span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+   li:
+    span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+    ul:
+     span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+     span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+     span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+     span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+     span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+   li:
+    span : Insights (#)
+    ul:
+     span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+     span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+     span : Blogs (https://nova.contemi.com/blogs/)
+   span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+  ul:
+   li:
+    span : Who We Serve 
+    ul:
+     span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+     span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+   li:
+    span : Solutions (#)
+    ul:
+     span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+     span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+     li:
+      span : Nova CORE 
+      ul:
+       span : Trading (https://nova.contemi.com/nova-trading/)
+       span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+       span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+     span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+     span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+     span : Nova Custody (https://nova.contemi.com/nova-custody/)
+     span : Nova Payments (https://nova.contemi.com/nova-payments/)
+     span : Nova Margin (https://nova.contemi.com/nova-margin/)
+     span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+     span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+     span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+   li:
+    span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+    ul:
+     span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+     span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+     span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+     span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+     span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+   li:
+    span : Insights (#)
+    ul:
+     span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+     span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+     span : Blogs (https://nova.contemi.com/blogs/)
+   span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+  div:
+   h1 : Meet the Team 
+   h2 : Executive Team 
+   div:
+    div:
+     h4 : Gopala Subramanium 
+     p : CEO – Capital Market Solutions & Group CFO 
+    p : Gopala Subramanium, CEO of Capital Market Solutions and Group CFO at Contemi Solutions, is a finance industry veteran with over 20 years of experience, specializing in turning businesses into profit powerhouses through aggressive revenue growth, cost optimization, and high-margin strategies. From orchestrating the record-breaking Religare IPO to steering Contemi’s financial and operational strategies, his journey from Jamshedpur to Singapore showcases a global, strategic mindset. An EMBA from S.P. Jain School and a member of the Singapore Institute of Directors, Gopala’s leadership transcends financial acumen, embodying innovation, ethical growth, and stakeholder engagement. His commitment to mentoring and community service, combined with his knack for profitable business transformation, makes him a pivotal figure in team’s success. 
+   div:
+    div:
+     h4 : Gaurav Mehta 
+     p : Chief Commercial Officer 
+    p : Gaurav Mehta is a seasoned professional with a robust track record spanning financial services, technology, and media sectors. With expertise in business development, digital strategy, marketing management, negotiation, business planning, and sales, Gaurav excels in driving growth and innovation. Armed with a Master of Business Administration (M.B.A.) specializing in Strategy, Finance, and Marketing from prestigious institutions such as The University of Hong Kong and London Business School, he brings a strategic and analytical approach to every project. Gaurav’s ability to navigate complex landscapes and his knack for identifying and capitalizing on emerging opportunities make him a valuable asset to any organization. With a passion for driving results and a commitment to excellence, Gaurav is poised to make a significant impact in the ever-evolving business landscape. 
+   h2 : Product Team 
+   div:
+    div:
+     div:
+      h4 : Kshitiswar Tripathy 
+      p : Head of Product 
+     div:
+      p : A Financial Technology oriented individual with over 19+ years of strong experience in software analysis, design, development… 
+      a : Read More… (javascript:void(0);)
+    div:
+     div:
+      h4 : Manuj Bhardwaj 
+      p : Head of Engineering 
+     div:
+      p : As the Head of Engineering, Post Trade at Contemi Solutions, Manuj brings over 18 years of comprehensive engineering 
+      a : Read More… (javascript:void(0);)
+    div:
+     div:
+      h4 : Paul Garnham 
+      p : Systems Architect 
+     div:
+      span : Paul is our System Architect based in Melbourne and leads Systems Analysis and Design in the Contemi Post Trade domain. 
+      a : Read More… (javascript:void(0);)
+   h2 : Customer Success Team 
+   div:
+    div:
+     h4 : Kenneth Lim 
+     p : Head of Professional Services 
+    div:
+     p : Kenneth is the Head of Professional Services leading the Post Trades Implementation and Application Support Team in Asia. He is currently managing the Operations of the Post Trade Division including professional services and delivery, project management, and customer communications. 
+     p : With 25 years of Stock Broking solutions implementations and services delivery experience, Kenneth has successfully brought a few Stock Broking Back Office implementation projects to production among his past achievements. 
+   div:
+    div:
+     div:
+      h4 : Sarjerao Shinde 
+      p : Operations Manager 
+     div:
+      span : Sarjerao, an Operations Manager based in Singapore, brings over 17 years of extensive experience in the trading industry, with a strong… 
+      a : Read More… (javascript:void(0);)
+    div:
+     div:
+      h4 : Raymond Tan 
+      p : Operations Manager 
+     div:
+      span : Raymond is the Operations Manager based in Malaysia with over 15 years of experience in the Malaysian equities market. 
+      a : Read More… (javascript:void(0);)
+    div:
+     div:
+      h4 : Laurence So 
+      p : Head of Operations - Hong Kong 
+     div:
+      span : Laurence So, is an accomplished professional with over 17 years of experience in the Hong Kong financial industry. 
+      a : Read More… (javascript:void(0);)
+   h2 : Brand & Marketing 
+   div:
+    div:
+     h4 : Vani Parmar 
+     p : Head of Brand & Marketing 
+    p : Vani is the Head of Brand and Marketing at Contemi Solutions. With a career spanning more than 15 years of brand development, planning, and executing marketing strategies, and managing media partnerships, she brings a wealth of strategic vision and a proven track record of driving successful campaigns that resonate with business goals and target audiences. Known for her detailed and innovative approach, Vani has a keen understanding of market trends, consumer behavior, and emerging technologies, allowing her to spearhead creative and effective initiatives. 
+   span : Contact Us for More Details 
+  footer:
+   div:
+    p : A smart and professional solution for all traders. 
+    div:
+     h5 : Contact Info 
+     span : 120 Robinson Road, #15-01, Singapore 068913 
+     span : Singapore 
+     span : info@contemi.com 
+     span : +65 6340 1027 
+    div:
+     h5 : Quick Links 
+     p:
+      a : Home (https://nova.contemi.com/)
+      a : Articles (https://nova.contemi.com/articles/)
+      a : Insights (https://nova.contemi.com/blog/)
+      a : About Us (https://nova.contemi.com/about-us/)
+      a : Contact Us (https://nova.contemi.com/contact-us/)
+   a : Nova Post Trade (https://nova.contemi.com/)
+ div:
+  div:
+   div : Kshitiswar Tripathy 
+   div : Head Of Product – Post Trade 
+   div:
+    p:
+     strong : Professional 
+     span : : 
+    span : A Financial Technology oriented individual with over 19+ years of strong experience in software analysis, design, development, customization, and implementation of Post Trade Products globally. Accomplished product management executive with more than a decade of experience driving the development and execution of successful product strategies. A strategic thinker with strong focus on user experience and a passion of leveraging technology to solve complex challenges. Possessing in-depth knowledge of the Capital Markets and it’s business by being a key contributor in the projects with leading customers. Blend technology skills with extensive Agile/Scrum experience, a marketing orientation, and analytical abilities to evolve product strategy. 
+    strong : Personal: 
+    span : Personally, I love spending time with my family and given a break from work, I pack my bags and get on an adventurous trip to a new country with my family by my side. My 12 year old is less a son and more a friend to me, and most of the time I am around him. Typically, my favourite evening would be watching a cricket match (even the most boring one) with my friends and a free flow of drinks & food! 
+  span : Powered by (https://www.essentialplugin.com?utm_source=https://nova.contemi.com&utm_medium=popup&utm_campaign=credit-link)
+ div:
+  div:
+   div : Manuj Bhardwaj 
+   div : Head of Engineering 
+   br : Prior roles in his professional journey helped him to hone his skills in project management, stakeholder engagement, and technical leadership. In his personal time, Manuj enjoys spending time outdoors, playing sports, and exploring new trails. Additionally, he finds relaxation in cooking and experimenting with new recipes, often hosting gatherings with friends and family to share meals and laughter. 
+  span : Powered by (https://www.essentialplugin.com?utm_source=https://nova.contemi.com&utm_medium=popup&utm_campaign=credit-link)
+ div:
+  div:
+   div : Paul Garnham 
+   div : System Architect 
+   div:
+    span : Paul is our System Architect based in Melbourne and leads Systems Analysis and Design in the Contemi Post Trade domain. Paul draws on his 38 years experience in the design and development of applications in the Post Trade environment. In addition to systems development he has extensive business knowledge across many markets and with Post Trade processing. 
+    span : Outside of work, Paul enjoys family life and coaches American football. He has coached at International and domestic representative level as well as with his very successful local team. 
+  span : Powered by (https://www.essentialplugin.com?utm_source=https://nova.contemi.com&utm_medium=popup&utm_campaign=credit-link)
+ div:
+  div:
+   div : Sarjerao Shinde 
+   div : Operations Manager 
+   div:
+    p : Sarjerao, an Operations Manager based in Singapore, brings over 17 years of extensive experience in the trading industry, with a strong foundation in software engineering. Currently, he oversees IT Operations and Professional Services for customers in Singapore, playing a crucial role in maintaining and enhancing service delivery. 
+    p : Sarjerao has been instrumental in spearheading significant initiatives, including a pivotal role in the Singapore Exchange’s (SGX) project to replace the Trading Member’s Post Trade Management System with a new, cutting-edge API-based Customer Accounting System. This initiative has not only improved operational efficiencies but also enhanced the technological framework to meet modern trading demands. 
+  span : Powered by (https://www.essentialplugin.com?utm_source=https://nova.contemi.com&utm_medium=popup&utm_campaign=credit-link)
+ div:
+  div:
+   div : Raymond Tan 
+   div : Operations Manager 
+  span : Powered by (https://www.essentialplugin.com?utm_source=https://nova.contemi.com&utm_medium=popup&utm_campaign=credit-link)
+ div:
+  div:
+   div : Laurence So 
+   div : Head of Operations - Hong Kong 
+   div:
+    p : Laurence So, is an accomplished professional with over 17 years of experience in the Hong Kong financial industry. Based in Hong Kong, he has had the privilege of being part of one of Asia’s leading financial hubs. Throughout his career, he has honed his skills in technical expertise, project management, and business analysis. 
+    p : With a strong technical background, he brings a deep understanding of coding, data analysis, and software development to the table. This proficiency allows him to navigate the intricacies of the modern financial landscape with ease. As a seasoned project manager, he has successfully overseen numerous initiatives, ensuring their seamless execution within strict timelines and budgetary constraints. 
+  span : Powered by (https://www.essentialplugin.com?utm_source=https://nova.contemi.com&utm_medium=popup&utm_campaign=credit-link)

@@ -1,0 +1,170 @@
+URL: https://nova.contemi.com/nova-digital-assets/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h1 : The Next Frontier in Digital Transformation – Revolutionise Post-Trade Operations in Digital Assets with NOVA 
+  div:
+   div:
+    div:
+     h4 : Settlement Speed 
+     p : Traditional post-trade processes involve multiple intermediaries and may take days to settle. Digital assets, supported by blockchain and distributed ledger technology (DLT), enable near-instant settlement, significantly shortening the typical T+2 or T+1 settlement periods. 
+    span : Know More (https://nova.contemi.com/contact-us)
+   div:
+    div:
+     h4 : Reconciliation Efficiency 
+     p : Digital assets allow for real-time transaction verification, eliminating the need for complex reconciliation processes between different parties. This reduces manual labour and the risk of discrepancies. 
+    span : Know More (https://nova.contemi.com/contact-us)
+   div:
+    div:
+     h4 : Operational Risks 
+     p : The shift from conventional processes to those involving digital assets introduces new risks, including technology failures, regulatory challenges, and cybersecurity threats. Ensuring that systems can handle digital asset transactions seamlessly is critical. 
+    span : Know More (https://nova.contemi.com/contact-us)
+  p : Digital assets have rapidly gained prominence in capital markets, offering new opportunities and challenges. By embracing automation in post-trade processes, financial institutions can manage the complexities associated with digital assets more effectively, ensuring scalability, efficiency, and reduced operational risks. Solutions like those provided by NOVA's post-trade automation platform are positioned to support this evolving landscape by integrating automated processes that meet the demands of the digital asset era.
+Blockchain technology and asset digitization have the potential to upend nearly every aspect of traditional financial services. The oncoming digital asset landscape will displace at least some intermediaries and service providers while creating lucrative new opportunities for others. 
+  div:
+   div:
+    h2 : Benefits 
+    div:
+     span : Lowering Entry Barriers 
+     p : By digitizing assets the process becomes more streamlined and efficient by reducing paperwork, quicker verification processes, and the ability to divide large assets into smaller, more manageable digital tokens. 
+    div:
+     span : Operational Efficiency 
+     p : DLT can streamline processes by providing a single source of truth that is accessible to all parties involved. This reduces the need for reconciliation between different records, which is both time-consuming and costly. 
+    div:
+     span : Global Participation 
+     p : Digital assets are not bound by geographical limitations, enabling global participation. This opens up opportunities for a diverse range of investors from different regions to engage in the markets. 
+   div:
+    div:
+     span : Automation & Transparency 
+     p : Many digital asset platforms utilise smart contracts, which significantly reduce the complexity of contractual agreements and the execution of transactions. Blockchain, the underlying technology, provides a transparent and immutable ledger that ensures all parties have access to the same information, thereby simplifying auditing and compliance processes. 
+    div:
+     span : Increased Liquidity 
+     p : The increased liquidity is beneficial for both investors looking to exit their positions and for those seeking to enter the market. 
+    div:
+     span : Reduction in Intermediary Costs 
+     p : DLT allows for peer-to-peer transactions without the need for intermediaries, which can significantly reduce transaction fees and other associated costs. 
+  div:
+   h2 : Key Features 
+   div:
+    span : Real-Time Settlement and Clearing 
+    p : With NOVA Digital Assets, facilitate near real-time settlement and clearing, crucial for the faster-paced nature of digital asset transactions. The system utilises blockchain-based smart contracts to automate settlement processes, reducing counterparty risk. 
+    span : Regulatory Compliance and Reporting 
+    p : Comply with global and local regulatory requirements by automating data collection and report generation. The system maintains a complete audit trail - a transparent, tamper-proof record of transactions that simplifies audits and meets compliance standards. 
+    span : Reconciliation Engine 
+    p : NOVA Digital Assets facilitates automated data matching that reconciles transaction records across different ledgers, platforms, and participants to identify and resolve discrepancies. It has a built-in mechanism for managing and addressing exceptions quickly to maintain seamless operations. 
+    span : Interoperability and Blockchain Integration 
+    p : NOVA Digital Assets has multi-ledger compatibility to interact with different blockchain networks (e.g., Ethereum, Hyperledger) for versatile asset handling. Built with a robust API framework for connecting with legacy systems, trading platforms, and other financial institutions. 
+    span : Scalability and High Throughput 
+    p : NOVA is built on N-tier architecture that supports high transaction volumes without compromising processing speed or accuracy. Flexible deployment options are available, including secure cloud-based and shared platforms, for scalability and remote access. 
+    span : Security and Risk Management 
+    p : Advanced encryption ensures secure data transmission and storage to protect against cyber threats. Real-time monitoring helps identify and mitigate risks associated with digital asset transactions. 
+    span : End-to-End Workflow Automation 
+    p : NOVA Post Trade automates the full process cycle from trade execution to settlement, custody, and reporting, minimizing manual intervention. Customizable workflows allow processes to be configured to cater to specific client needs or regulatory environments. 
+    span : User-Friendly Dashboard and Analytics 
+    p : NOVA provides real-time monitoring dashboards that give a comprehensive view of transaction statuses, settlement progress, and performance metrics. Advanced data analytics tools provide reporting and visualization for actionable insights and strategic decision-making. 
+    span : Workflow Customization and Smart Automation 
+    p : Users can set real-time alerts for key trade events, settlement completions, and exceptions. 
+    span : Integration with Market Data Providers 
+    p : Real-time market data feeds from various sources are seamlessly integrated into the system to validate transactions and ensure price accuracy. 
+    span : Cross-Asset Support 
+    p : Ability to handle transactions involving different types of digital and traditional assets. 
+  div:
+   p : For a deeper exploration on our Digital Assets solution, speak with our experts – 
+   span : Contact Us for More Details 
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

@@ -1,0 +1,195 @@
+URL: https://nova.contemi.com/rpa-nova/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h1 : Accelerate and Streamline Post-Trade Operations with NOVA RPA 
+  div:
+   div:
+    div:
+     h4 : Improve Efficiency 
+     p : Proven over 20% reduction in helpdesk queries, RPA makes processing at least 4 times faster than humans. For instance, a process that took two days could be reduced to 30 minutes, as reported by some financial institutions. 
+    span : Know More (https://nova.contemi.com/contact-us)
+   div:
+    div:
+     h4 : Cost Savings 
+     p : Robotic Process Automation can generate up to a 67% reduction in the number of full-time equivalent employees needed for the process. It provides scalability as transaction volumes grow without a corresponding increase in costs. 
+    span : Know More (https://nova.contemi.com/contact-us)
+   div:
+    div:
+     h4 : Compliance & Risk 
+     p : Automated processes ensure that compliance checks are consistently applied, reducing the risk of regulatory breaches and resulting fines. RPA systems can provide detailed logs of all transactions, aiding in audit and compliance
+efforts. 
+    span : Know More (https://nova.contemi.com/contact-us)
+  p : Robotic Process Automation (RPA) is a technology that uses software robots, or "bots," to automate repetitive, rule-based tasks that are typically performed by humans. These bots can interact with digital systems and software in the same way that people do, making them ideal for tasks that involve routine data processing, manipulation, and communication across various systems. 
+The financial industry is under increasing pressure to accelerate trade settlement cycles. With global markets pushing toward T+1 or even T+0 settlements, the demand for streamlined, efficient post-trade processes has never been higher. Robotic Process Automation (RPA) plays a pivotal role in helping financial institutions meet these challenges. 
+  div:
+   h2 : Key Features 
+   p : Programmable software bots 
+   p : Replicates human activities on structured data 
+   p : Automate specific rule-based tasks 
+   p : Assigned User ID 
+   p : Plugs into applications without the need for complex integrations 
+   p : One bot can perform multiple
+processes 
+  div:
+   h2 : Key Benefits 
+   div:
+    div:
+     div:
+      h5 : Faster Settlements 
+      p : By automating the matching and validation of trade data, the system can expedite the trade settlement process. 
+     div:
+      h5 : Cost Savings 
+      p : Reduce the cost of capital through collateral optimization and flag potentially fraudulent counterparty activities to avoid regulatory interventions and fines. 
+     div:
+      h5 : Compliance 
+      p : Utilising RPA, the system ensures that post-trade processes adhere to regulatory requirements by consistently applying predefined rules and providing detailed audit logs of all automated activities. 
+    div:
+     div:
+      h5 : Efficiency 
+      p : Automating repetitive tasks makes the processes faster and allows you to align your workforce to more productive tasks and make the business more efficient. 
+     div:
+      h5 : Automation 
+      p : Automate routine tasks such as data entry, reconciliation, and report generation, reducing errors and freeing up human resources for more strategic activities. 
+     div:
+      h5 : Accuracy 
+      p : Automation minimizes human errors associated with manual data entry and processing, ensuring greater accuracy in post-trade activities such as reconciliation and reporting. 
+  div:
+   h2 : How RPA Supports Shortening of Settlement Times 
+   div:
+    div:
+     div : Accelerate Trade Validation 
+     div : Automate Reconciliation 
+     div : Enhance Exception Management 
+     div : Streamline Regulatory Reporting 
+    div:
+     div : Accelerate Trade Validation 
+     p : RPA bots can rapidly cross-verify trade details with multiple data sources, ensuring that transactions are accurate and compliant. This speed significantly reduces the time taken for initial trade validation, a critical step in the settlement process. 
+     div : Automate Reconciliation 
+     p : Matching trade data across various ledgers and systems is often time-consuming. RPA can perform these reconciliations within seconds, highlighting discrepancies for immediate attention and allowing quick resolution. 
+     div : Enhance Exception Management 
+     p : In cases where trades require manual intervention, RPA can prioritize and flag exceptions, directing them to the appropriate teams for faster resolution without disrupting other processes. 
+     div : Streamline Regulatory Reporting 
+     p : Preparing and submitting reports to regulatory authorities can be automated to ensure timely and accurate submissions, avoiding compliance-related delays that could impact settlement times. 
+  p : In the race to shorten settlement times, RPA is an essential tool that enables financial institutions to modernise their post-trade operations. By automating critical tasks, brokers and clearing houses can reduce settlement times, lower operational risks, and ensure compliance—all while optimizing resources. As the global push for T+1 and T+0 settlement continues, RPA-enabled solutions like NOVA are instrumental in helping firms navigate and thrive in this rapidly evolving landscape.
+NOVA’s post-trade automation solution, powered by advanced RPA technology, supports brokers and financial institutions in achieving shorter settlement times. Our platform automates end-to-end post-trade processes, from trade validation and reconciliation to regulatory reporting and exception management. By leveraging RPA, brokers can improve efficiency, accuracy, and scalability, meeting the demands of evolving settlement cycles with confidence. 
+  div:
+   div:
+    div:
+     span : Improve Operational Efficiency 
+     p : with automated Striaght Through Processing and multi tier architecture 
+    div:
+     span : Reduce Cost 
+     p : operate more efficiently, and minimise risk with cloud-hosted infrastructure 
+   div:
+    div:
+     span : Scalable & Future-Ready 
+     p : with multi tier architecture enabling load balancing and increased security 
+    div:
+     span : Lower Security Risks 
+     p : multi tier architecture that isolates critical data under several encrypted layers 
+   div:
+    div:
+     span : Strong Clearing & settlement 
+     p : ecosystem with direct interface with all major CSDs across APAC 
+    div:
+     span : Improve Compliance 
+     p : to ever-eveolving regulatory requirements across multiple jurisdictions 
+  span : Contact Us for More Details 
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

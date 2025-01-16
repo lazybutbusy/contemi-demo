@@ -1,0 +1,174 @@
+URL: https://nova.contemi.com/ai-ml-rpa-in-post-trade-processing/#respond
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h3 : Nova Post Trade 
+  div:
+   div:
+    div:
+     div:
+      h3 : Ai, Ml, Rpa In Post-Trade Processing … Sure, They Work, But How Do We Reap Operational Benefits? 
+      div:
+       a : April 7, 2022 (https://nova.contemi.com/2022/04/)
+       a : Articles (https://nova.contemi.com/category/articles/)
+       div:
+        span : By 
+        a : Nathalie Zeghmouli (https://nova.contemi.com/author/nathalie-zeghmouli/)
+     div:
+      a : Trinity Audio (//trinityaudio.ai)
+      div:
+       div:
+        strong : Host 
+        h3 : PANELLISTS 
+        ul:
+         strong : Nathalie Zeghmouli 
+         strong : Duncan Cooper 
+        h3 : MODERATOR: VIRGINIE O’SHEA, CEO & FOUNDER, FIREBRAND RESEARCH 
+        p : The session took place at the PostTrade360 Stockholm Conference for the panel titled “Expanding the uses of AI, ML, RPA to include post-trade functions” to discuss- 
+        ul:
+         li : How, AI, ML and RPA are different 
+         li : Will implementing AI replace humans 
+         li : How much is RPA helping 
+         li : Is post-trade ready enough to implement AI 
+         li : Challenges you can face around data and investments 
+         li : What use case in AI can be applied 
+         li : What can AI do in terms of risk perspective 
+       div:
+        span : Here’s a brief summary of the session. 
+        p : For many early starters, “robotic process automation” (RPA) is an everyday practice by now. But except for replacing operational staff with IT folks – “bot herders” – what practical change can we see it leading to? Starting out on a sceptical note, this 17-minute session sought to identify the efficient tech paths that are out there after all, and the best ways to tread them. 
+        p : “I think the thing we’ve all learned is that if you think it’s gonna be easy, it won’t be,” said Duncan Cooper, while Virginie O’Shea shared her observation of a tendency to “end up having more IT staff than operations staff”. 
+        p : That said, Nathalie Zeghmouli held up the arguments for more long-term patience – and continued investments – in new technology. Over a long time, there is a lot of potential for example in machine learning (ML) but it is in its nature that it will need time after implementation to do the automated “learning” that is in its name. 
+        p : “Machine learning enables you to update and enhance without human-being intervention,” she said. 
+        p : “There is a learning curve but it is constant and endless. In the industry, we have very much been focusing on the first part, the automation, but we have underestimated – or at least we have not invested enough yet – in the machine learning and what it can do.” 
+        a : PostTrade360 (https://posttrade360.com/news/technology/ai-ml-rpa-sure-they-work-but-how-do-we-reap-operational-net-benefits/)
+     span : Share 
+    div:
+     span : Nathalie Zeghmouli (https://nova.contemi.com/author/nathalie-zeghmouli/)
+     p : Business Development Director 
+    div:
+     span:
+      span : Is It Time For An... 
+      span : September 23, 2020 
+     span:
+      span : Fractional Tradin... 
+      span : August 25, 2023 
+    div:
+     a : Cancel reply (/ai-ml-rpa-in-post-trade-processing/#respond)
+     form:
+      p:
+       span : Your email address will not be published. 
+       span : * 
+      label : Save my name, email, and website in this browser for the next time I comment. 
+      span : Post Comment 
+   div:
+    h3 : Related posts 
+    div:
+     div:
+      a : Automating Fractional Trading: Empo... (https://nova.contemi.com/automating-fractional-trading-empowering-malaysias-steps-to-financial-inclusion/)
+      a : May 8, 2024 (https://nova.contemi.com/2024/05/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : Digital assets: Transforming Financ... (https://nova.contemi.com/digital-assets-transforming-finance-and-post-trade-operations/)
+      a : September 17, 2024 (https://nova.contemi.com/2024/09/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : A Look at Leaders in Post-Trade Aut... (https://nova.contemi.com/a-look-at-leaders-in-post-trade-automation/)
+      a : November 14, 2024 (https://nova.contemi.com/2024/11/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

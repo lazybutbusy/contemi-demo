@@ -1,0 +1,635 @@
+URL: https://nova.contemi.com/contact-nova-post-trade/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h1 : Contact Us 
+  form:
+   noscript : Please enable JavaScript in your browser to complete this form. 
+   div : Please enable JavaScript in your browser to complete this form. 
+   div:
+    span : * 
+    span : * 
+    label : Phone Number 
+    span : * 
+    span : * 
+    div:
+     span : * 
+     select:
+      option : Country* 
+      option : Afghanistan 
+      option : Albania 
+      option : Algeria 
+      option : Andorra 
+      option : Angola 
+      option : Antigua & Deps 
+      option : Argentina 
+      option : Armenia 
+      option : Australia 
+      option : Austria 
+      option : Azerbaijan 
+      option : Bahamas 
+      option : Bahrain 
+      option : Bangladesh 
+      option : Barbados 
+      option : Belarus 
+      option : Belgium 
+      option : Belize 
+      option : Benin 
+      option : Bhutan 
+      option : Bolivia 
+      option : Bosnia Herzegovina 
+      option : Botswana 
+      option : Brazil 
+      option : Brunei 
+      option : Bulgaria 
+      option : Burkina 
+      option : Burundi 
+      option : Cambodia 
+      option : Cameroon 
+      option : Canada 
+      option : Cape Verde 
+      option : Central African Rep 
+      option : Chad 
+      option : Chile 
+      option : China 
+      option : Colombia 
+      option : Comoros 
+      option : Congo 
+      option : Congo {Democratic Rep} 
+      option : Costa Rica 
+      option : Croatia 
+      option : Cuba 
+      option : Cyprus 
+      option : Czech Republic 
+      option : Denmark 
+      option : Djibouti 
+      option : Dominica 
+      option : Dominican Republic 
+      option : East Timor 
+      option : Ecuador 
+      option : Egypt 
+      option : El Salvador 
+      option : Equatorial Guinea 
+      option : Eritrea 
+      option : Estonia 
+      option : Ethiopia 
+      option : Fiji 
+      option : Finland 
+      option : France 
+      option : Gabon 
+      option : Gambia 
+      option : Georgia 
+      option : Germany 
+      option : Ghana 
+      option : Greece 
+      option : Grenada 
+      option : Guatemala 
+      option : Guinea 
+      option : Guinea-Bissau 
+      option : Guyana 
+      option : Haiti 
+      option : Honduras 
+      option : Hungary 
+      option : Iceland 
+      option : India 
+      option : Indonesia 
+      option : Iran 
+      option : Iraq 
+      option : Ireland {Republic} 
+      option : Israel 
+      option : Italy 
+      option : Ivory Coast 
+      option : Jamaica 
+      option : Japan 
+      option : Jordan 
+      option : Kazakhstan 
+      option : Kenya 
+      option : Kiribati 
+      option : Korea North 
+      option : Korea South 
+      option : Kosovo 
+      option : Kuwait 
+      option : Kyrgyzstan 
+      option : Laos 
+      option : Latvia 
+      option : Lebanon 
+      option : Lesotho 
+      option : Liberia 
+      option : Libya 
+      option : Liechtenstein 
+      option : Lithuania 
+      option : Luxembourg 
+      option : Macedonia 
+      option : Madagascar 
+      option : Malawi 
+      option : Malaysia 
+      option : Maldives 
+      option : Mali 
+      option : Malta 
+      option : Marshall Islands 
+      option : Mauritania 
+      option : Mauritius 
+      option : Mexico 
+      option : Micronesia 
+      option : Moldova 
+      option : Monaco 
+      option : Mongolia 
+      option : Montenegro 
+      option : Morocco 
+      option : Mozambique 
+      option : Myanmar, {Burma} 
+      option : Namibia 
+      option : Nauru 
+      option : Nepal 
+      option : Netherlands 
+      option : New Zealand 
+      option : Nicaragua 
+      option : Niger 
+      option : Nigeria 
+      option : Norway 
+      option : Oman 
+      option : Pakistan 
+      option : Palau 
+      option : Panama 
+      option : Papua New Guinea 
+      option : Paraguay 
+      option : Peru 
+      option : Philippines 
+      option : Poland 
+      option : Portugal 
+      option : Qatar 
+      option : Romania 
+      option : Russian Federation 
+      option : Rwanda 
+      option : St Kitts & Nevis 
+      option : St Lucia 
+      option : Saint Vincent & the Grenadines 
+      option : Samoa 
+      option : San Marino 
+      option : Sao Tome & Principe 
+      option : Saudi Arabia 
+      option : Senegal 
+      option : Serbia 
+      option : Seychelles 
+      option : Sierra Leone 
+      option : Singapore 
+      option : Slovakia 
+      option : Slovenia 
+      option : Solomon Islands 
+      option : Somalia 
+      option : South Africa 
+      option : South Sudan 
+      option : Spain 
+      option : Sri Lanka 
+      option : Sudan 
+      option : Suriname 
+      option : Swaziland 
+      option : Sweden 
+      option : Switzerland 
+      option : Syria 
+      option : Taiwan 
+      option : Tajikistan 
+      option : Tanzania 
+      option : Thailand 
+      option : Togo 
+      option : Tonga 
+      option : Trinidad & Tobago 
+      option : Tunisia 
+      option : Turkey 
+      option : Turkmenistan 
+      option : Tuvalu 
+      option : Uganda 
+      option : Ukraine 
+      option : United Arab Emirates 
+      option : United Kingdom 
+      option : United States 
+      option : Uruguay 
+      option : Uzbekistan 
+      option : Vanuatu 
+      option : Vatican City 
+      option : Venezuela 
+      option : Vietnam 
+      option : Yemen 
+      option : Zambia 
+      option : Zimbabwe 
+    fieldset:
+     legend : What is your biggest challenge? 
+     ul:
+      label : Operational efficiency is poor 
+      label : Regulatory change is difficult to keep pace with 
+      label : Risk management is less than optimal 
+      label : Total cost of ownership is a concern or simply too high 
+    span : * 
+   button : Submit 
+  fieldset:
+   legend : Contact Us 
+   input:
+    select:
+     option : Country* 
+     option : Afghanistan 
+     option : Aland Islands 
+     option : Albania 
+     option : Algeria 
+     option : American Samoa 
+     option : Andorra 
+     option : Angola 
+     option : Anguilla 
+     option : Antarctica 
+     option : Antigua and Barbuda 
+     option : Argentina 
+     option : Armenia 
+     option : Aruba 
+     option : Australia 
+     option : Austria 
+     option : Azerbaijan 
+     option : Bahamas 
+     option : Bahrain 
+     option : Bangladesh 
+     option : Barbados 
+     option : Belarus 
+     option : Belgium 
+     option : Belize 
+     option : Benin 
+     option : Bermuda 
+     option : Bhutan 
+     option : Bolivia 
+     option : Bonaire, Sint Eustatius and Saba 
+     option : Bosnia and Herzegovina 
+     option : Botswana 
+     option : Bouvet Island 
+     option : Brazil 
+     option : British Indian Ocean Territory 
+     option : Brunei 
+     option : Bulgaria 
+     option : Burkina Faso 
+     option : Burundi 
+     option : Côte d'Ivoire 
+     option : Cambodia 
+     option : Cameroon 
+     option : Canada 
+     option : Cape Verde 
+     option : Cayman Islands 
+     option : Central African Republic 
+     option : Chad 
+     option : Chile 
+     option : China 
+     option : Christmas Island 
+     option : Cocos (Keeling) Islands 
+     option : Colombia 
+     option : Comoros 
+     option : Congo 
+     option : Cook Islands 
+     option : Costa Rica 
+     option : Croatia 
+     option : Cuba 
+     option : Curacao 
+     option : Cyprus 
+     option : Czech Republic 
+     option : Denmark 
+     option : Djibouti 
+     option : Dominica 
+     option : Dominican Republic 
+     option : East Timor 
+     option : Ecuador 
+     option : Egypt 
+     option : El Salvador 
+     option : Equatorial Guinea 
+     option : Eritrea 
+     option : Estonia 
+     option : Ethiopia 
+     option : Falkland Islands (Malvinas) 
+     option : Faroe Islands 
+     option : Fiji 
+     option : Finland 
+     option : France 
+     option : French Guiana 
+     option : French Polynesia 
+     option : French Southern Territories 
+     option : Gabon 
+     option : Gambia 
+     option : Georgia 
+     option : Germany 
+     option : Ghana 
+     option : Gibraltar 
+     option : Greece 
+     option : Greenland 
+     option : Grenada 
+     option : Guadeloupe 
+     option : Guam 
+     option : Guatemala 
+     option : Guernsey 
+     option : Guinea 
+     option : Guinea-Bissau 
+     option : Guyana 
+     option : Haiti 
+     option : Heard Island and McDonald Islands 
+     option : Holy See 
+     option : Honduras 
+     option : Hong Kong 
+     option : Hungary 
+     option : Iceland 
+     option : India 
+     option : Indonesia 
+     option : Iran 
+     option : Iraq 
+     option : Ireland 
+     option : Isle of Man 
+     option : Israel 
+     option : Italy 
+     option : Jamaica 
+     option : Japan 
+     option : Jersey 
+     option : Jordan 
+     option : Kazakhstan 
+     option : Kenya 
+     option : Kiribati 
+     option : Kosovo 
+     option : Kuwait 
+     option : Kyrgyzstan 
+     option : Laos 
+     option : Latvia 
+     option : Lebanon 
+     option : Lesotho 
+     option : Liberia 
+     option : Libya 
+     option : Liechtenstein 
+     option : Lithuania 
+     option : Luxembourg 
+     option : Macao 
+     option : Macedonia 
+     option : Madagascar 
+     option : Malawi 
+     option : Malaysia 
+     option : Maldives 
+     option : Mali 
+     option : Malta 
+     option : Marshall Islands 
+     option : Martinique 
+     option : Mauritania 
+     option : Mauritius 
+     option : Mayotte 
+     option : Mexico 
+     option : Micronesia 
+     option : Moldova 
+     option : Monaco 
+     option : Mongolia 
+     option : Montenegro 
+     option : Montserrat 
+     option : Morocco 
+     option : Mozambique 
+     option : Myanmar 
+     option : Namibia 
+     option : Nauru 
+     option : Nepal 
+     option : Netherlands 
+     option : New Caledonia 
+     option : New Zealand 
+     option : Nicaragua 
+     option : Niger 
+     option : Nigeria 
+     option : Niue 
+     option : Norfolk Island 
+     option : North Korea 
+     option : Northern Mariana Islands 
+     option : Norway 
+     option : Oman 
+     option : Pakistan 
+     option : Palau 
+     option : Palestine 
+     option : Panama 
+     option : Papua New Guinea 
+     option : Paraguay 
+     option : Peru 
+     option : Philippines 
+     option : Pitcairn 
+     option : Poland 
+     option : Portugal 
+     option : Puerto Rico 
+     option : Qatar 
+     option : Reunion 
+     option : Romania 
+     option : Russia 
+     option : Rwanda 
+     option : Saint Barthelemy 
+     option : Saint Helena, Ascension and Tristan da Cunha 
+     option : Saint Kitts and Nevis 
+     option : Saint Lucia 
+     option : Saint Martin (French part) 
+     option : Saint Pierre and Miquelon 
+     option : Saint Vincent and the Grenadines 
+     option : Samoa 
+     option : San Marino 
+     option : Sao Tome and Principe 
+     option : Saudi Arabia 
+     option : Senegal 
+     option : Serbia 
+     option : Seychelles 
+     option : Sierra Leone 
+     option : Singapore 
+     option : Sint Maarten (Dutch part) 
+     option : Slovakia 
+     option : Slovenia 
+     option : Solomon Islands 
+     option : Somalia 
+     option : South Africa 
+     option : South Georgia and the South Sandwich Islands 
+     option : South Korea 
+     option : South Sudan 
+     option : Spain 
+     option : Sri Lanka 
+     option : Sudan 
+     option : Suriname 
+     option : Svalbard and Jan Mayen 
+     option : Swaziland 
+     option : Sweden 
+     option : Switzerland 
+     option : Syria 
+     option : Taiwan 
+     option : Tajikistan 
+     option : Tanzania 
+     option : Thailand 
+     option : Timor-Leste 
+     option : Togo 
+     option : Tokelau 
+     option : Tonga 
+     option : Trinidad and Tobago 
+     option : Tunisia 
+     option : Turkey 
+     option : Turkmenistan 
+     option : Turks and Caicos Islands 
+     option : Tuvalu 
+     option : Uganda 
+     option : Ukraine 
+     option : United Arab Emirates 
+     option : United Kingdom 
+     option : United States 
+     option : United States Minor Outlying Islands 
+     option : Uruguay 
+     option : Uzbekistan 
+     option : Vanuatu 
+     option : Vatican City 
+     option : Venezuela 
+     option : Vietnam 
+     option : Virgin Islands, British 
+     option : Virgin Islands, U.S. 
+     option : Wallis and Futuna 
+     option : Western Sahara 
+     option : Yemen 
+     option : Zambia 
+     option : Zimbabwe 
+    input : Operational efficiency is poor 
+    button : Submit 
+    label : If you are human, leave this field blank. 
+  h2 : For Specific Inquiries, Drop Us a Line 
+  div:
+   div:
+    p : Media & Marketing 
+    a : marketing@contemi.com (mailto:marketing@contemi.com?subject=Marketing%20Enquiry)
+   div:
+    p : Product Demo & Other Queries 
+    a : info@contemi.com (mailto:info@contemi.com?subject=General%20Enquiry)
+  div:
+   h2 : Contemi Offices Around The World 
+   h3 : Contemi Solutions - Head Office 
+   b : Singapore 
+   h3 : Contemi Solutions - APAC 
+  div:
+   b : Vietnam 
+   div:
+    b : Hong Kong 
+    div : Grand Century Plaza, 
+    div : Mongkok, Kowloon, 
+    div : Hong Kong 
+   div:
+    b : Singapore 
+    a : +65 6340 1027 (tel:+65 6340 1027)
+   b : Australia 
+  div:
+   b : Malaysia 
+   b : Indonesia 
+   b : India 
+  h3 : Contemi Solutions - Europe 
+  div:
+   div:
+    b : UK 
+    div : The Professional Quarter, 
+   b : NORWAY 
+  div:
+   div:
+    div:
+     span : Improve Operational Efficiency 
+     p : with automated Striaght Through Processing and multi tier architecture 
+    div:
+     span : Reduce Cost 
+     p : operate more efficiently, and minimise risk with cloud-hosted infrastructure 
+   div:
+    div:
+     span : Scalable & Future-Ready 
+     p : with multi tier architecture enabling load balancing and increased security 
+    div:
+     span : Lower Security Risks 
+     p : multi tier architecture that isolates critical data under several encrypted layers 
+   div:
+    div:
+     span : Strong Clearing & settlement 
+     p : ecosystem with direct interface with all major CSDs across APAC 
+    div:
+     span : Improve Compliance 
+     p : to ever-eveolving regulatory requirements across multiple jurisdictions 
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

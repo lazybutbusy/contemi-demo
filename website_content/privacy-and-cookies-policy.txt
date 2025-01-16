@@ -1,0 +1,223 @@
+URL: https://nova.contemi.com/privacy-and-cookies-policy/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h3 : Privacy and Cookies Policy 
+  div:
+   div:
+    h5 : 1. INTRODUCTION 
+    p : Contemi Solutions and its subsidiaries are committed to protecting personal data and respecting your privacy. 
+    p : This privacy statement describes how we collect, use, share, protect, and otherwise process personal information about you. This statement applies to personal information that you provide to us: 
+    ul:
+     li : as a visitor to our websites or as a user of our client portals; 
+     li : when you send us personal information in connection with an inquiry about Contemi providing products and services directly to you; 
+     li : as a visitor to our premises; and 
+     li : as a contact at one of our clients, potential clients, suppliers or other business partners. 
+    strong : Notice to Customers of Contemi Clients 
+   div:
+    h5 : 2. WHAT INFORMATION DO WE COLLECT FROM YOU? 
+    p : We may collect and process the following information (personal data) about you: 
+    ul:
+     ul:
+      li : This includes information about you that you give to us by filling in forms on our website (or other forms that we ask you to complete), giving us a business card (or similar), or corresponding with us by telephone, post, email or other means. 
+      li : It may include, for example, your name, address, email address, work telephone number, mobile telephone number, information about your business relationship with us, information about you necessary to complete anti-money laundering checks in order to comply with requirements relating to anti-money laundering and other legislation applicable to us; and information about your professional role, background and interests. 
+     ul:
+      li : If you visit our website it will automatically collect certain information about you and your visit, including the Internet protocol (IP) address used to connect your device to the Internet and other information such as your browser type and version. We may also collect information about the pages on our site that you visit. Our website may also download “cookies” to your device – this is described in our separate cookie policy below. 
+      li : If you email, telephone, write, or exchange other electronic communications with our employees and other staff members, our information technology systems will record details of those conversations and exchanges, sometimes including their content. 
+      li : Some of our premises have closed circuit TV systems which may record you if you visit our premises, for security and safety purposes. 
+     ul:
+      li : If we have a business relationship with the organisation that you represent, your colleagues or other business contacts may give us information about you, such as your contact details or details of your role in the organisation that you represent. 
+      li : We sometimes collect information from other third parties, which can include third party data providers, or from publicly available sources for anti-money-laundering, background checking and similar purposes, to protect our business and to comply with our legal and regulatory obligations. 
+   div:
+    h5 : 3. EMBEDDED CONTENT 
+    p : Pages on this site may include embedded content, like YouTube videos, for example. Embedded content from other websites behaves in the exact same way as if you visited the other website. 
+    p : These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged-in to that website. Below you can find a list of the services we use: 
+    h6 : FACEBOOK 
+    a : Facebook Privacy Policy (https://www.facebook.com/privacy/)
+    h6 : TWITTER 
+    a : Twitter Privacy Policy (https://twitter.com/privacy)
+    h6 : YOUTUBE 
+    a : YouTube Privacy Policy (https://www.youtube.com/static?template=privacy_guidelines)
+   div:
+    div:
+     h5 : 4. COOKIES 
+     p : This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymized tracking data to third party applications like Google Analytics. Cookies generally exist to make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the help section of your browser. 
+     h6 : NECESSARY COOKIES (ALL SITE VISITORS) 
+     ul:
+      li:
+       b : cfduid: 
+       a : CloudFlare Privacy Policy (https://www.cloudflare.com/privacypolicy/)
+      b : PHPSESSID: 
+     h6 : NECESSARY COOKIES (ADDITIONAL FOR LOGGED IN CUSTOMERS) 
+     ul:
+      b : wp-auth: 
+      b : wordpress_logged_in_{hash}: 
+      b : wordpress_test_cookie 
+      b : wp-settings-[UID]: 
+      b : wp-settings-[UID]: 
+    span : 5. WHO HAS ACCESS TO YOUR DATA 
+   div:
+    p : If you are not a registered client for our site, there is no personal information we can retain or view regarding yourself. 
+    p : If you are a client with a registered account, your personal information can be accessed by: 
+    ul:
+     li : Our system administrators. 
+     li : Our supporters when they (in order to provide support) need to get the information about the client accounts and access. 
+   div:
+    h5 : 6. HOW WILL WE USE YOUR INFORMATION? 
+    p : We may use your information for the following purposes: 
+    ul:
+     li : to personalise and customise your experience with us; conduct research and analysis; and fulfil orders and requests for products, services, or information from you or the organization that you represent. 
+     li : to send you marketing communications regarding our products and services. 
+     li : for ordinary business purposes, including to operate and administer the products and services provided by Contemi Solutions in accordance with the terms of any agreements that we may have with our clients. 
+     li : to operate, administer and improve our website and premises and other aspects of the way in which we conduct our operations. 
+     li : to protect our business from fraud, money-laundering, breach of confidence, theft of proprietary materials and other financial or business crimes. 
+     li : to comply with our legal and regulatory obligations, and to bring and defend legal claims where the information is pertinent (including to allow us to pursue available remedies or limit the damages that we may sustain). 
+     li : to comply with our internal policies and maintain our records or as otherwise required by applicable data protection laws. 
+     li : to respond to requests from our clients that are not already addressed above. 
+    p : We may from time to time be required to review information about you held in our systems – including the contents of and other information related to your email and other communications with us – for compliance and business-protection purposes as described above. 
+    p : This may include reviews for the purposes of disclosure of information relevant to litigation and/or reviews of records relevant to internal or external regulatory or criminal investigations. 
+    p : To the extent permitted by applicable law, these reviews will be conducted in a reasonable and proportionate way, and approved at an appropriate level of management. They may ultimately involve disclosure of your information to governmental agencies and litigation counterparties as set out below. 
+    p : Your emails and other communications may also be accessed occasionally by persons other than the member of staff with whom they are exchanged for ordinary business management purposes (for example, where necessary when a staff member is out of the office or has left our organisation). 
+    p : We will only process your personal information as necessary to pursue the purposes described above. 
+    p : In exceptional circumstances, we may also be required by law to disclose or otherwise process your personal information. 
+    p : We will tell you, when we ask you to provide information about yourself, if: 
+    ul:
+     li : provision of the requested information is necessary for compliance with a legal obligation, or 
+     li : it is purely voluntary and there will be no implications if you decline to provide the information. 
+    a : info@contemi.com (mailto:info@contemi.com)
+   div:
+    h5 : 7. HOW LONG WE RETAIN YOUR DATA 
+    p : When you submit a support ticket or a comment, its metadata is retained until (if) you tell us to remove it. We use this data so that we can recognize you and approve your comments automatically instead of holding them for moderation. 
+    p : If you register on our website, we also store the personal information you provide in your user profile. You can see, edit, or delete your personal information at any time (except changing your username). Website administrators can also see and edit that information. 
+   div:
+    h5 : 8. SECURITY MEASURES 
+    p : We use the SSL/HTTPS protocol throughout our site. This encrypts our user communications with the servers so that personal identifiable information is not captured/hijacked by third parties without authorization. 
+    p : In case of a data breach, system administrators will immediately take all needed steps to ensure system integrity, will contact affected users and will attempt to reset passwords if needed. 
+   span : 9. YOUR DATA RIGHTS 
+   div:
+    h6 : GENERAL RIGHTS 
+    p : If you have a registered account on this website or have left comments, you can request an exported file of the personal data we retain, including any additional data you have provided to us. 
+    p : You can also request that we erase any of the personal data we have stored. This does not include any data we are obliged to keep for administrative, legal, or security purposes. In short, we cannot erase data that is vital to you being an active customer (i.e. basic account information like an email address). 
+    p : If you wish that all of your data is erased, we will no longer be able to offer any support or other product-related services to you. 
+    h6 : GDPR RIGHTS 
+    a : EU GDPR Information Portal. (https://www.eugdpr.org/)
+   span : 10. RELEASE OF YOUR DATA FOR LEGAL PURPOSES 
+   div:
+    p : At times it may become necessary or desirable to Contemi, for legal purposes, to release your information in response to a request from a government agency or a private litigant. You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. 
+    p : Any passing on of personal data for legal purposes will only be done in compliance with laws of the country you reside in. 
+   div:
+    h5 : 11. DISCLOSURE AND INTERNATIONAL TRANSFER OF YOUR INFORMATION 
+    p : We may disclose personal information about you, in accordance with the various legitimate purposes set out above: 
+    ul:
+     li : to the other legal entities within Contemi Solutions. 
+     li : if we receive the personal information from you as a representative of one of our business partners or clients, to your colleagues within the organisation that you represent. 
+     li : to third party service providers who host our website or other information technology systems or otherwise hold or process your information on our behalf, under substantially similar conditions of confidentiality and security. 
+     li : business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you. 
+     li : in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit; in accordance with our legal obligations, including to competent regulatory, prosecuting and other governmental agencies, or litigation counterparties, in any country or territory or where we are otherwise required by law to disclose. 
+    p : These disclosures may involve transferring your personal information overseas. If you are dealing with us within the European Economic Area (or the UK, after it has left the European Economic Area), you should be aware that this may include transfers to countries outside the European Economic Area / UK, which do not have similarly strict data privacy laws and which may therefore afford a lower standard of personal data protection. In those cases, where we transfer personal data to other legal entities within Contemi or our service providers, we will ensure that our arrangements with them are governed by data transfer agreements, designed to ensure that your personal information is protected, on terms approved for this purpose by the European Commission. 
+    h5 : HOW WE KEEP YOUR PERSONAL INFORMATION SAFE? 
+    p : We are committed to protecting your personal information submitted to us. We maintain an information security program including internal policies addressing the acceptable use and access to confidential business information and personal information which may be contained within Contemi’s information systems. We maintain physical, electronic and procedural safeguards reasonably designed to guard personal information from loss, misuse or unauthorized access, disclosure, alteration or destruction of the information that has been provided to us through our on-line services. 
+    h5 : CONTACT US 
+    a : info@contemi.com (mailto:info@contemi.com)
+    a : info@contemi.com (mailto:info@contemi.com)
+    p : We will respond to your request consistent with applicable data protection laws. Depending upon the type of business relationship that you have with us, we may need to notify you that additional information is necessary to authenticate your identity for your data security or that we will refer your inquiry to the financial services entity that holds the primary relationship with you. 
+    p : For requests to delete your personal information as permitted under applicable data protection laws, we will work with you to accomplish your requests unless otherwise exempted under applicable data protection laws, such as compliance with applicable law or regulatory inquiry. 
+    h5 : CHANGES TO THIS POLICY 
+    p : Any changes we make to this privacy policy in the future will be posted to our website. Please check back frequently to see any changes. 
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

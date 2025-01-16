@@ -1,0 +1,218 @@
+URL: https://nova.contemi.com/blog/page/2/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h3 : Blog 
+  div:
+   div:
+    div:
+     a : Malaysia’s E-Invoicing Mandate Promises Enhanced Efficiency & Inclusivity to Stockbrokers In The Country (https://nova.contemi.com/e-invoicing-in-malaysia-modernization-and-capital-market-impact/)
+     div:
+      a : April 8, 2024 (https://nova.contemi.com/2024/04/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Kenneth Lim (https://nova.contemi.com/author/kenneth-lim/)
+     p : Governments worldwide are increasingly embracing electronic solutions to streamline processes and enhance efficiency across various sectors. Malaysia, a fast-growing economy in Sou 
+    span : Read More (https://nova.contemi.com/e-invoicing-in-malaysia-modernization-and-capital-market-impact/)
+   div:
+    div:
+     a : The Rise of Fractional Trading in Singapore: Empowering Retail Investors (https://nova.contemi.com/rise-of-fractional-trading-in-singapore-empowering-retail-investors/)
+     div:
+      a : March 20, 2024 (https://nova.contemi.com/2024/03/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Gaurav Mehta (https://nova.contemi.com/author/gaurav-mehta/)
+     p : In recent years, fractional trading has revolutionized the investment landscape, making it more accessible and flexible for retail investors. This trend has gained significant mome 
+    span : Read More (https://nova.contemi.com/rise-of-fractional-trading-in-singapore-empowering-retail-investors/)
+   div:
+    div:
+     a : The Run to ZERO: A Deep Dive into Shorter Settlement Cycles (https://nova.contemi.com/the-run-to-zero-a-deep-dive-into-shorter-settlement-cycles/)
+     div:
+      a : March 13, 2024 (https://nova.contemi.com/2024/03/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Gopala Subramanium (https://nova.contemi.com/author/gopala-subramanium/)
+     p : Pretext: The architecture of financial markets is fundamentally dependent on the efficiency and timing of its settlement cycles—the process that completes transactions through th 
+    span : Read More (https://nova.contemi.com/the-run-to-zero-a-deep-dive-into-shorter-settlement-cycles/)
+   div:
+    div:
+     a : Automating Post Trade Settlement Processes With RPA: Benefits And Use Cases (https://nova.contemi.com/automating-post-trade-settlement-processes-with-rpa/)
+     div:
+      a : October 11, 2023 (https://nova.contemi.com/2023/10/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Manuj Bhardwaj (https://nova.contemi.com/author/manuj-bhardwaj/)
+     p : INTRODUCTION In today’s fast-paced business world, companies are always looking for ways to improve their efficiency and reduce costs. One area where this is particularly importa 
+    span : Read More (https://nova.contemi.com/automating-post-trade-settlement-processes-with-rpa/)
+   div:
+    div:
+     a : Time to Break the Unbroken (https://nova.contemi.com/jobslist-get-inspired-about-art-careers/)
+     div:
+      a : October 4, 2023 (https://nova.contemi.com/2023/10/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Gaurav Mehta (https://nova.contemi.com/author/gaurav-mehta/)
+     p : In the constantly evolving landscape of financial services, it’s easy to focus on the glamour of front-office activities: trading, investment strategies, and client engagemen 
+    span : Read More (https://nova.contemi.com/jobslist-get-inspired-about-art-careers/)
+   div:
+    div:
+     a : Shaping The Future Of Broking: T+0 Settlement And Contemi Nova’s Role In Post-Trade Processing (https://nova.contemi.com/shaping-the-future-of-broking/)
+     div:
+      a : September 29, 2023 (https://nova.contemi.com/2023/09/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Gaurav Mehta (https://nova.contemi.com/author/gaurav-mehta/)
+     p : The world of finance is undergoing a significant transformation, driven by technological advancements and the need for speed and efficiency. Among the key developments in post-trad 
+    span : Read More (https://nova.contemi.com/shaping-the-future-of-broking/)
+   div:
+    div:
+     a : CGS-CIMB Securities Malaysia Leverages Contemi’s Nova Solution To Improve Service Delivery (https://nova.contemi.com/cgs-cimb-securities-malaysia-leverages-contemis-nova-solution-to-improve-service-delivery/)
+     div:
+      a : September 21, 2023 (https://nova.contemi.com/2023/09/)
+      a : Press Releases (https://nova.contemi.com/category/press-releases/)
+      div:
+       span : By 
+       a : Malaysia (https://nova.contemi.com/author/malaysia/)
+     p : CGS-CIMB Securities Sdn Bhd (CCS) has announced a technology upgrade to provide quicker and more reliable solutions for its clients, as it goes live with Nova, post-trade solution 
+    span : Read More (https://nova.contemi.com/cgs-cimb-securities-malaysia-leverages-contemis-nova-solution-to-improve-service-delivery/)
+   div:
+    div:
+     a : Fractional Trading: Malaysia’s Exciting Step Forward In Investing (https://nova.contemi.com/fractional-trading-malaysias-step-investing/)
+     div:
+      a : August 25, 2023 (https://nova.contemi.com/2023/08/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Gopala Subramanium (https://nova.contemi.com/author/gopala-subramanium/)
+     p : The end of 2023 will mark a pivotal moment in Malaysia’s stock market, with the government’s recent announcement to unveil fractional trading. The honourable Prime Mini 
+    span : Read More (https://nova.contemi.com/fractional-trading-malaysias-step-investing/)
+   div:
+    div:
+     a : Ai, Ml, Rpa In Post-Trade Processing … Sure, They Work, But How Do We Reap Operational Benefits? (https://nova.contemi.com/ai-ml-rpa-in-post-trade-processing/)
+     div:
+      a : April 7, 2022 (https://nova.contemi.com/2022/04/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Nathalie Zeghmouli (https://nova.contemi.com/author/nathalie-zeghmouli/)
+     p : Host – Posttrade360° PANELLISTS Nathalie Zeghmouli, Business Development Director, Europe, Contemi Solutions Duncan Cooper, Head of OMNI Digital Services, EMEA and APAC, BN 
+    span : Read More (https://nova.contemi.com/ai-ml-rpa-in-post-trade-processing/)
+   div:
+    div:
+     a : Is It Time For An Agile Revolution In Financial Services? (https://nova.contemi.com/is-ittime-for-agile-revolution-financial-services/)
+     div:
+      a : September 23, 2020 (https://nova.contemi.com/2020/09/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       span : By 
+       a : Kshitiswar Tripathy (https://nova.contemi.com/author/kshitiswar-tripathy/)
+     p : Now more than ever, financial services institutions need to move from legacy operational processes and compete with the fast-moving digital world, by putting a digital customer exp 
+    span : Read More (https://nova.contemi.com/is-ittime-for-agile-revolution-financial-services/)
+   nav:
+    h2 : Posts navigation 
+    div:
+     a : 1 (https://nova.contemi.com/blog/)
+     span : 2 
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

@@ -1,0 +1,231 @@
+URL: https://nova.contemi.com/e-invoicing-malaysia-compliance-guide-for-stockbrokers/#respond
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h3 : Nova Post Trade 
+  div:
+   div:
+    div:
+     div:
+      div:
+       h3 : Steps that Stockbrokers Must Take to Comply with the E-invoicing Mandate in Malaysia 
+       div:
+        a : April 19, 2024 (https://nova.contemi.com/2024/04/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+        div:
+         span : By 
+         a : Kenneth Lim (https://nova.contemi.com/author/kenneth-lim/)
+      div:
+       a : Trinity Audio (//trinityaudio.ai)
+       div:
+        p : E-Invoicing Malaysia: In our previous article, we discussed the latest e-invoicing mandate released by the Malaysian Government in an ongoing effort to make the financial system simpler. In this article, we share detailed steps that the stockbrokers with businesses in Malaysia must take to comply. 
+        a : Stockbrokers in Malaysia (https://nova.contemi.com/e-invoicing/)
+        span : E-Invoicing Requirements in Malaysia: Understand the Requirements 
+        a : e-invoicing mandate (https://nova.contemi.com/e-invoicing/)
+        span : Assess Current Systems and Processes 
+        p : Stockbrokers should assess their existing invoicing systems and processes to determine their readiness for e-invoicing adoption. This assessment involves evaluating the compatibility of their systems with the MYS XML format and identifying any gaps or areas that require enhancement or modification. 
+        span : Implementing E-Invoicing Solutions in Malaysia 
+        p : Stockbrokers that have high transaction volumes will benefit from implementing e-invoicing solutions that would enable them to generate and transmit electronic invoices in compliance with the IRBM’s requirements. Stockbrokers with lower transaction volume can opt to manually upload their invoices on MyInvois Portal hosted by IRBM, however, this portal is only suitable for a small volume of data and is feasible for Micro, Small, and Medium-sized Enterprises (MSMEs). 
+        a : NOVA’s e-Invoicing module (https://nova.contemi.com/e-invoicing/)
+        span : Ensure Data Integrity and Security 
+        a : brokers (https://nova.contemi.com/e-invoicing/)
+        span : Empowering Staff and Stakeholders for E-Invoicing Success in Malaysia 
+        p:
+         a : invoice generation (https://nova.contemi.com/e-invoicing/)
+         a : NOVA e-Invoice system (https://nova.contemi.com/e-invoicing/)
+        span : Testing and Validating Systems for E-Invoicing in Malaysia 
+        a : e-invoicing systems (https://nova.contemi.com/e-invoicing/)
+        span : Establish Compliance Protocols 
+        p : Stockbrokers need to establish internal protocols and procedures for ensuring ongoing compliance with the e-invoicing mandate. This includes establishing audit trails, documentation requirements, and internal controls to monitor and verify the accuracy and integrity of electronic invoices. 
+        span : Stay Informed and Updated 
+        a : Contemi (https://contemi.com/)
+        a : Malaysia’s invoicing ecosystem (https://nova.contemi.com/e-invoicing/)
+      div:
+       span : Share 
+       div:
+        a : billing software (https://nova.contemi.com/tag/billing-software/)
+        a : billing system (https://nova.contemi.com/tag/billing-system/)
+        a : contoh invoice malaysia (https://nova.contemi.com/tag/contoh-invoice-malaysia/)
+        a : create invoice (https://nova.contemi.com/tag/create-invoice/)
+        a : create invoice online (https://nova.contemi.com/tag/create-invoice-online/)
+        a : e billing (https://nova.contemi.com/tag/e-billing/)
+        a : e invoice malaysia 2024 (https://nova.contemi.com/tag/e-invoice-malaysia-2024/)
+        a : e invoicing software (https://nova.contemi.com/tag/e-invoicing-software/)
+        a : e-invoicing (https://nova.contemi.com/tag/e-invoicing/)
+        a : e-invoicing malaysia (https://nova.contemi.com/tag/e-invoicing-malaysia/)
+        a : e-invoicing malaysia guidelines (https://nova.contemi.com/tag/e-invoicing-malaysia-guidelines/)
+        a : einvoice malaysia (https://nova.contemi.com/tag/einvoice-malaysia/)
+        a : electronic invoicing (https://nova.contemi.com/tag/electronic-invoicing/)
+        a : invoice (https://nova.contemi.com/tag/invoice/)
+        a : invoice creator (https://nova.contemi.com/tag/invoice-creator/)
+        a : invoice generator (https://nova.contemi.com/tag/invoice-generator/)
+        a : invoice generator malaysia (https://nova.contemi.com/tag/invoice-generator-malaysia/)
+        a : invoice maker (https://nova.contemi.com/tag/invoice-maker/)
+        a : invoice malaysia (https://nova.contemi.com/tag/invoice-malaysia/)
+        a : invoice online (https://nova.contemi.com/tag/invoice-online/)
+        a : invoice software (https://nova.contemi.com/tag/invoice-software/)
+        a : invoice system (https://nova.contemi.com/tag/invoice-system/)
+        a : invoice template malaysia (https://nova.contemi.com/tag/invoice-template-malaysia/)
+        a : invoicing software (https://nova.contemi.com/tag/invoicing-software/)
+        a : malaysia e invoicing (https://nova.contemi.com/tag/malaysia-e-invoicing/)
+        a : malaysia invoice (https://nova.contemi.com/tag/malaysia-invoice/)
+        a : malaysia invoice template (https://nova.contemi.com/tag/malaysia-invoice-template/)
+        a : my invoice (https://nova.contemi.com/tag/my-invoice/)
+        a : online invoice (https://nova.contemi.com/tag/online-invoice/)
+        a : online invoice generator (https://nova.contemi.com/tag/online-invoice-generator/)
+        a : quickbooks login malaysia (https://nova.contemi.com/tag/quickbooks-login-malaysia/)
+        a : receipt template malaysia (https://nova.contemi.com/tag/receipt-template-malaysia/)
+        a : what is e-invoicing malaysia (https://nova.contemi.com/tag/what-is-e-invoicing-malaysia/)
+     div:
+      span : Kenneth Lim (https://nova.contemi.com/author/kenneth-lim/)
+      p : Head of Professional Services 
+     div:
+      span:
+       span : Malaysia’s E-Invo... 
+       span : April 8, 2024 
+      span:
+       span : Automating Fracti... 
+       span : May 8, 2024 
+     div:
+      a : Cancel reply (/e-invoicing-malaysia-compliance-guide-for-stockbrokers/#respond)
+      form:
+       p:
+        span : Your email address will not be published. 
+        span : * 
+       label : Save my name, email, and website in this browser for the next time I comment. 
+       span : Post Comment 
+    aside:
+     label : Search 
+     div:
+      div:
+       a : Accelerating Migration to Production with RPA in Post-Trade Clearing and Settlement (https://nova.contemi.com/accelerating-migration-to-production-with-rpa-in-post-trade-clearing-and-settlement/)
+       div:
+        a : December 3, 2024 (https://nova.contemi.com/2024/12/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       a : Transforming Finance in Asia-Pacific: How Digital Assets and Post-Trade Automation are Shaping the Future (https://nova.contemi.com/transforming-finance-in-asia-pacific-how-digital-assets-and-post-trade-automation-are-shaping-the-future/)
+       div:
+        a : November 26, 2024 (https://nova.contemi.com/2024/11/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       a : Enhancing Post-Trade Management with NOVA: A Comprehensive Solution for Institutional and Retail Brokers (https://nova.contemi.com/nova-post-trade-management-solution-for-brokers/)
+       div:
+        a : November 14, 2024 (https://nova.contemi.com/2024/11/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      h5 : Categories 
+      ul:
+       a : Articles (https://nova.contemi.com/category/articles/)
+       a : Press Releases (https://nova.contemi.com/category/press-releases/)
+   div:
+    h3 : Related posts 
+    div:
+     div:
+      a : Transforming Finance in Asia-Pacifi... (https://nova.contemi.com/transforming-finance-in-asia-pacific-how-digital-assets-and-post-trade-automation-are-shaping-the-future/)
+      a : November 26, 2024 (https://nova.contemi.com/2024/11/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : The Cost of Shortcuts: Understandin... (https://nova.contemi.com/the-cost-of-shortcuts-understanding-technical-debt-in-post-trade-technology/)
+      a : August 13, 2024 (https://nova.contemi.com/2024/08/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : The Rise of Fractional Trading in S... (https://nova.contemi.com/rise-of-fractional-trading-in-singapore-empowering-retail-investors/)
+      a : March 20, 2024 (https://nova.contemi.com/2024/03/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)
