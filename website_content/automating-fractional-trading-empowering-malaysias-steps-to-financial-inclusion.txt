@@ -1,0 +1,208 @@
+URL: https://nova.contemi.com/automating-fractional-trading-empowering-malaysias-steps-to-financial-inclusion/#respond
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h3 : Nova Post Trade 
+  div:
+   div:
+    div:
+     div:
+      div:
+       h3 : Automating Fractional Trading: Empowering Malaysia’s Steps to Financial Inclusion 
+       div:
+        a : May 8, 2024 (https://nova.contemi.com/2024/05/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+        div:
+         span : By 
+         a : Kenneth Lim (https://nova.contemi.com/author/kenneth-lim/)
+      div:
+       a : Trinity Audio (//trinityaudio.ai)
+       div:
+        p : In September 2023, The Securities Commission of Malaysia (SC) announced the regulations that would allow stockbroking companies to offer fractional share trading services for shares listed on Bursa Malaysia. This remarkable initiative democratizes investment opportunities for a broader segment of society. 
+        p : In the rapidly evolving landscape of financial markets, particularly in Malaysia, the adoption of innovative technologies is reshaping traditional practices for stockbrokers. Automation streamlines the entire fractional trading process, from order placement to execution and settlement. This efficiency reduces manual intervention, minimizes errors, and accelerates transaction times. Stockbrokers can leverage algorithmic trading systems to facilitate seamless fractional trades, enabling them to efficiently handle larger volumes of transactions. This shift allows brokerage firms to focus on providing value-added services such as personalized investment advice and portfolio management, enhancing overall client experience. 
+        p : NOVA Post Trade automation solution offers a cutting-edge Fractional Trading module that brings a range of powerful features designed to enhance trading capabilities and open new opportunities for investors in the Malaysian market. 
+        strong : Support for Trading Odd Lot and Fractional Quantities 
+        p : Feature: Investors can trade in odd lot quantities and fractional quantities, enabling them to participate in the market with greater flexibility. 
+        p : Benefit: This feature allows investors to optimize their trading strategies by executing transactions in smaller increments, facilitating smoother portfolio management. 
+        strong : Customizable Decimal Places at Instrument Level 
+        p : Feature: NOVA Post Trade allows the configuration of several decimal places at the instrument level, providing precision tailored to each financial instrument. 
+        p : Benefit: Customizable decimal places ensure accuracy in trading calculations, enhancing transparency, and reducing the risk of errors. 
+        strong : Client-Specific Fractional Trading Restrictions 
+        p : Feature: Fractional Trading can be restricted to specific clients based on predefined criteria, offering control and customization to broker firms. 
+        p : Benefit: This feature enables broker firms to tailor their services to different client segments, ensuring compliance with regulatory requirements and business preferences. 
+        strong : Handling Corporate Action Entitlements for Fractional Trades 
+        p : Feature: NOVA Post Trade seamlessly handles corporate action entitlements for fractional trades, ensuring that investors receive their fair share of dividends and other corporate benefits. 
+        p : Benefit: Investors can confidently participate in fractional trading knowing that their entitlements will be accurately calculated and distributed. 
+        strong : Automate the migration process for Fractional Instruments 
+        p : Feature: The platform provides a streamlined migration process to automatically create fractional instruments in the market, simplifying the transition for market participants. 
+        p : Benefit: This automation minimizes manual effort and reduces the risk of errors during the migration process, ensuring a smooth transition to fractional trading. 
+        strong : Separate Instrument Support for Fractional Trading 
+        p : Feature: Fractional trading is supported in separate instruments distinct from market trading, providing clarity and organization in the trading process. 
+        p : Benefit: Clear separation ensures transparency and simplifies trade execution, reducing confusion and enhancing user experience. 
+        strong : Flexible Cash Settlement options 
+        p : Feature: While client cash settlement is expected through client trust accounts, NOVA Post Trade can be configured to support alternative payment methods, offering flexibility to market participants. 
+        p : Benefit: Flexibility in cash settlement options accommodates diverse investor preferences and operational requirements, enhancing overall user satisfaction. 
+        strong : Market Trading Through Principal Account 
+        p : Feature: Market trading is facilitated through principal accounts in market instruments, ensuring smooth execution of trades. 
+        p : Benefit: This feature simplifies the trading process and provides a seamless experience for investors, improving operational efficiency. 
+        strong : Auto Settlement of Trades As per Market’s Norm 
+        p : Feature: Trades settle as per market norms, with stocks flagged for auto-settlement on the due date, ensuring timely and accurate transaction processing. 
+        p : Benefit: Automated settlement processes reduce manual intervention and minimize settlement risks, enhancing overall trading efficiency and reliability. 
+        strong : Regulatory Compliance with Separate Principal Accounts 
+        p : Feature: NOVA Post Trade supports the creation of separate principal accounts based on regulatory requirements. 
+        p : Benefit: Compliance with regulatory requirements is streamlined, ensuring adherence to local regulations and promoting trust and transparency in the market. 
+        p : By leveraging technology to enhance accessibility, efficiency, and risk management, brokerage firms can unlock new growth avenues while fostering financial inclusion and market democratization. 
+      span : Share 
+     div:
+      span : Kenneth Lim (https://nova.contemi.com/author/kenneth-lim/)
+      p : Head of Professional Services 
+     div:
+      span:
+       span : Steps that Stockb... 
+       span : April 19, 2024 
+      span:
+       span : The Buy-Side’s Ch... 
+       span : May 27, 2024 
+     div:
+      a : Cancel reply (/automating-fractional-trading-empowering-malaysias-steps-to-financial-inclusion/#respond)
+      form:
+       p:
+        span : Your email address will not be published. 
+        span : * 
+       label : Save my name, email, and website in this browser for the next time I comment. 
+       span : Post Comment 
+    aside:
+     label : Search 
+     div:
+      div:
+       a : Accelerating Migration to Production with RPA in Post-Trade Clearing and Settlement (https://nova.contemi.com/accelerating-migration-to-production-with-rpa-in-post-trade-clearing-and-settlement/)
+       div:
+        a : December 3, 2024 (https://nova.contemi.com/2024/12/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       a : Transforming Finance in Asia-Pacific: How Digital Assets and Post-Trade Automation are Shaping the Future (https://nova.contemi.com/transforming-finance-in-asia-pacific-how-digital-assets-and-post-trade-automation-are-shaping-the-future/)
+       div:
+        a : November 26, 2024 (https://nova.contemi.com/2024/11/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       a : Enhancing Post-Trade Management with NOVA: A Comprehensive Solution for Institutional and Retail Brokers (https://nova.contemi.com/nova-post-trade-management-solution-for-brokers/)
+       div:
+        a : November 14, 2024 (https://nova.contemi.com/2024/11/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      h5 : Categories 
+      ul:
+       a : Articles (https://nova.contemi.com/category/articles/)
+       a : Press Releases (https://nova.contemi.com/category/press-releases/)
+   div:
+    h3 : Related posts 
+    div:
+     div:
+      a : Steps that Stockbrokers Must Take t... (https://nova.contemi.com/e-invoicing-malaysia-compliance-guide-for-stockbrokers/)
+      a : April 19, 2024 (https://nova.contemi.com/2024/04/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : The Cost of Shortcuts: Understandin... (https://nova.contemi.com/the-cost-of-shortcuts-understanding-technical-debt-in-post-trade-technology/)
+      a : August 13, 2024 (https://nova.contemi.com/2024/08/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : Ai, Ml, Rpa In Post-Trade Processin... (https://nova.contemi.com/ai-ml-rpa-in-post-trade-processing/)
+      a : April 7, 2022 (https://nova.contemi.com/2022/04/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

@@ -1,0 +1,195 @@
+URL: https://nova.contemi.com/jobslist-get-inspired-about-art-careers/#respond
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h3 : Nova Post Trade 
+  div:
+   div:
+    div:
+     div:
+      div:
+       h3 : Time to Break the Unbroken 
+       div:
+        a : October 4, 2023 (https://nova.contemi.com/2023/10/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+        div:
+         span : By 
+         a : Gaurav Mehta (https://nova.contemi.com/author/gaurav-mehta/)
+      div:
+       a : Trinity Audio (//trinityaudio.ai)
+       div:
+        p : In the constantly evolving landscape of financial services, it’s easy to focus on the glamour of front-office activities: trading, investment strategies, and client engagement. However, the often-overlooked back-office operations form the backbone of any financial institution, and their efficiency can profoundly impact front-office returns. In this article, I explain the concept of back-office technology reform, emphasizing how upgrading these critical systems can ultimately enhance front-office profitability. 
+        h2 : IMPORTANCE OF BACK-OFFICE OPERATIONS 
+        p : Back-office operations encompass a range of tasks that occur after a financial transaction is executed, including trade confirmation, settlement, reconciliation, accounting, and compliance reporting. These processes may not be as glamorous as front-office trading floors, but they are vital for several reasons: 
+        p : Risk Mitigation: Efficient back-office operations reduce the risk of settlement failures, errors, and regulatory non-compliance, safeguarding the institution’s reputation and financial health. 
+        p : Cost Efficiency: Streamlining back-office processes can lead to significant cost savings through reduced manual labour, decreased operational errors, and improved resource allocation. 
+        p : Client Satisfaction: Faster and more accurate post-trade processing leads to better client experiences, fostering trust and loyalty. 
+        p : Regulatory Compliance: Meeting stringent and rapidly evolving regulatory requirements is non-negotiable in the financial industry, and back-office operations play a pivotal role in ensuring compliance. 
+        h2 : BREAKING WHAT “AIN’T BROKE” 
+        p : The saying “if it ain’t broke, don’t fix it” has its merits, but can also stifle progress and innovation. In the context of back-office operations, even systems that seem to work adequately may benefit from a revamp for the following reasons: 
+        p : Technology Advancements: The financial industry is undergoing a technological revolution, with advancements like Artificial Intelligence (AI), Blockchain, and Big Data Analytics. Embracing these technologies can greatly enhance back-office efficiency. 
+        p : Cost Pressures: Increasing competition and regulatory pressures are compelling financial institutions to reduce costs. By upgrading back-office systems, institutions can achieve cost savings through automation and improved processes. 
+        p : Data-Driven Insights: Modern back-office systems provide valuable real-time data and analytics, enabling better decision-making for front-office traders and portfolio managers. 
+        p : Operational Resilience: With the rise of cyber threats and operational disruptions, robust and up-to-date back-office systems are essential for maintaining operational resilience. 
+        h2 : CONTEMI NOVA: THE CATALYST FOR BACK-OFFICE TECH REFORM 
+        p : Contemi is a leading fintech company that specializes in back-office technology solutions. Their innovative platforms and expertise in areas such as AI, data analytics, and automation make them a pivotal player in the quest for more efficient back-office operations. Here’s how Contemi’s post trade clearing and settlement solution, Nova, can help financial institutions break free from outdated systems: 
+        p : Automation: Contemi Nova’s platforms automate various back-office processes, reducing the need for manual intervention and minimizing the risk of human error. 
+        p : Real-Time Data Insights: The company leverages AI and analytics to provide real-time data insights, allowing institutions to make informed decisions promptly. 
+        p : Regulatory Compliance: Contemi Nova’s solutions ensure that institutions remain compliant with evolving regulatory requirements by automating reporting and ensuring data accuracy. 
+        p : Customization: Contemi Nova understands that every financial institution is unique. Their platforms are highly customizable to suit specific needs and workflows. 
+        h2 : CONCLUSION 
+        p : In the rapidly evolving financial industry, back-office technology reform is not just about fixing what’s broken but enhancing what’s already working. The marriage of cutting-edge technology and the expertise of companies like Contemi can transform back-office operations into a source of competitive advantage, ultimately benefiting front-office returns. Embracing change and investing in modern back-office systems may just be the key to staying ahead in today’s highly competitive financial markets. 
+      span : Share 
+     div:
+      span : Gaurav Mehta (https://nova.contemi.com/author/gaurav-mehta/)
+      p : Chief Commercial Officer 
+     div:
+      span:
+       span : Shaping The Futur... 
+       span : September 29, 2023 
+      span:
+       span : Automating Post T... 
+       span : October 11, 2023 
+     div:
+      a : Cancel reply (/jobslist-get-inspired-about-art-careers/#respond)
+      form:
+       p:
+        span : Your email address will not be published. 
+        span : * 
+       label : Save my name, email, and website in this browser for the next time I comment. 
+       span : Post Comment 
+    aside:
+     label : Search 
+     div:
+      div:
+       a : Accelerating Migration to Production with RPA in Post-Trade Clearing and Settlement (https://nova.contemi.com/accelerating-migration-to-production-with-rpa-in-post-trade-clearing-and-settlement/)
+       div:
+        a : December 3, 2024 (https://nova.contemi.com/2024/12/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       a : Transforming Finance in Asia-Pacific: How Digital Assets and Post-Trade Automation are Shaping the Future (https://nova.contemi.com/transforming-finance-in-asia-pacific-how-digital-assets-and-post-trade-automation-are-shaping-the-future/)
+       div:
+        a : November 26, 2024 (https://nova.contemi.com/2024/11/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       a : Enhancing Post-Trade Management with NOVA: A Comprehensive Solution for Institutional and Retail Brokers (https://nova.contemi.com/nova-post-trade-management-solution-for-brokers/)
+       div:
+        a : November 14, 2024 (https://nova.contemi.com/2024/11/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      h5 : Categories 
+      ul:
+       a : Articles (https://nova.contemi.com/category/articles/)
+       a : Press Releases (https://nova.contemi.com/category/press-releases/)
+   div:
+    h3 : Related posts 
+    div:
+     div:
+      a : Digital assets: Transforming Financ... (https://nova.contemi.com/digital-assets-transforming-finance-and-post-trade-operations/)
+      a : September 17, 2024 (https://nova.contemi.com/2024/09/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : Automating Fractional Trading: Empo... (https://nova.contemi.com/automating-fractional-trading-empowering-malaysias-steps-to-financial-inclusion/)
+      a : May 8, 2024 (https://nova.contemi.com/2024/05/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : Mutualization Collaborate | Innovat... (https://nova.contemi.com/mutualization-collaborate-innovate-simplify/)
+      a : June 4, 2024 (https://nova.contemi.com/2024/06/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

@@ -1,0 +1,149 @@
+URL: https://nova.contemi.com/tag/billing-system/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h3 : billing system Tag 
+  div:
+   div:
+    div:
+     div:
+      a : Steps that Stockbrokers Must Take to Comply with the E-invoicing Mandate in Malaysia (https://nova.contemi.com/e-invoicing-malaysia-compliance-guide-for-stockbrokers/)
+      div:
+       a : April 19, 2024 (https://nova.contemi.com/2024/04/)
+       a : Articles (https://nova.contemi.com/category/articles/)
+       div:
+        span : By 
+        a : Kenneth Lim (https://nova.contemi.com/author/kenneth-lim/)
+      p : E-Invoicing Malaysia: In our previous article, we discussed the latest e-invoicing mandate released by the Malaysian Government in an ongoing effort to make the financial system si 
+     span : Read More (https://nova.contemi.com/e-invoicing-malaysia-compliance-guide-for-stockbrokers/)
+    div:
+     div:
+      a : Malaysia’s E-Invoicing Mandate Promises Enhanced Efficiency & Inclusivity to Stockbrokers In The Country (https://nova.contemi.com/e-invoicing-in-malaysia-modernization-and-capital-market-impact/)
+      div:
+       a : April 8, 2024 (https://nova.contemi.com/2024/04/)
+       a : Articles (https://nova.contemi.com/category/articles/)
+       div:
+        span : By 
+        a : Kenneth Lim (https://nova.contemi.com/author/kenneth-lim/)
+      p : Governments worldwide are increasingly embracing electronic solutions to streamline processes and enhance efficiency across various sectors. Malaysia, a fast-growing economy in Sou 
+     span : Read More (https://nova.contemi.com/e-invoicing-in-malaysia-modernization-and-capital-market-impact/)
+   aside:
+    label : Search 
+    div:
+     div:
+      a : Accelerating Migration to Production with RPA in Post-Trade Clearing and Settlement (https://nova.contemi.com/accelerating-migration-to-production-with-rpa-in-post-trade-clearing-and-settlement/)
+      div:
+       a : December 3, 2024 (https://nova.contemi.com/2024/12/)
+       a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : Transforming Finance in Asia-Pacific: How Digital Assets and Post-Trade Automation are Shaping the Future (https://nova.contemi.com/transforming-finance-in-asia-pacific-how-digital-assets-and-post-trade-automation-are-shaping-the-future/)
+      div:
+       a : November 26, 2024 (https://nova.contemi.com/2024/11/)
+       a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : Enhancing Post-Trade Management with NOVA: A Comprehensive Solution for Institutional and Retail Brokers (https://nova.contemi.com/nova-post-trade-management-solution-for-brokers/)
+      div:
+       a : November 14, 2024 (https://nova.contemi.com/2024/11/)
+       a : Articles (https://nova.contemi.com/category/articles/)
+    div:
+     h5 : Categories 
+     ul:
+      a : Articles (https://nova.contemi.com/category/articles/)
+      a : Press Releases (https://nova.contemi.com/category/press-releases/)
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

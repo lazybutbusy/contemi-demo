@@ -1,0 +1,141 @@
+URL: https://nova.contemi.com/automated-post-trade-solutions/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h1 : Be On Par With The Leading Brokers Across The Globe 
+  div:
+   div:
+    div:
+     h4 : Setting Up A New Business? 
+     p : Are you a new broker looking for a fast time to market without the hassles for managing expensive IT setup? 
+    span : Know More (https://nova.contemi.com/contact-us/)
+   div:
+    div:
+     h4 : Expanding your Business? 
+     p : Are you planning to grow your business and want scalability without the worry of internal constraints? 
+    span : Know More (https://nova.contemi.com/contact-us/)
+   div:
+    div:
+     h4 : Exchange or non-exchange members? 
+     p : Looking for lowest latency connectivity, minimal risk and improve certainty of execution with >99.99% up-time? 
+    span : Know More (https://nova.contemi.com/contact-us/)
+  p : With diminishing broker fee, growing expenses of infrastructure maintenance and associated manpower costs have become a significant cost for businesses. With increasing demands from regulatory bodies and shortening settlement cycles, the processing costs are only going higher. With NOVA Post Trade managed services, businesses can not only aim to reduce their annual processing costs, but also increase their data processing efficiencies, scale up or down anytime, and innovate quickly without the worry of additional in-house setups and hire required talents. 
+  div:
+   h2 : The Future of Post Trade 
+   div:
+    div:
+     div : Revamping 
+     div : Enable 
+     div : Change Management 
+     div : De-Risking 
+    div:
+     div : Revamping 
+     span : IT infrastructure and internal processes to scale the business or to bring innovation with inhouse capabilities alone is very slow and uneconomical. Managed services allow low-risk experimentation and alternative business models to develop in a cost efficient, less resource-intensive method. 
+     div : Enable 
+     span : firms to focus their resources on activities that create and deliver value to the business. A few years ago, the focus was on security, today it is equally on performance. Managed services provide a secure platform, enabling businesses to focus on their core expertise. 
+     div : Change Management 
+     span : Managed services address the growing concern of lack of experienced specialists to execute complex changes and deliver continuous best-in-class service for the long term. They have a natural ability in the areas emerging technologies bringing significant competitive advantage to businesses. 
+     div : De-Risking 
+     span : The level of security and type of tools available from hosted services surpasses what a typical asset manager or even regional bank or smaller bank can do on their own. Cloud providers work closely with regulatory bodies to ensure compliance. 
+  h2 : Our Managed Services Ecosystem 
+  div:
+   h4 : Clearing & Settlement Ecosystem 
+   h4 : Technology & Data Ecosystem 
+  span : Contact Us for More Details 
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

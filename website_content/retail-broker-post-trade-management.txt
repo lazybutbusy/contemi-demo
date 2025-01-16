@@ -1,0 +1,157 @@
+URL: https://nova.contemi.com/retail-broker-post-trade-management/
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h1 : A Unified Platform Providing Seamless Low-Touch Processing from Post-Trade Execution to Settlement Confirmation 
+  div:
+   div:
+    div:
+     h4 : Global Regulatory Compliances 
+     p : Diverse regulatory frameworks, multiple markets messaging formats, currencies and asset classes; NOVA supports it all. 
+    span : Know More (https://nova.contemi.com/contact-us/)
+   div:
+    div:
+     h4 : Transparency and Data Security 
+     p : Multi-tier architecture of NOVA enables controlled access to data to safeguard sensitive and valuable information. 
+    span : Know More (https://nova.contemi.com/contact-us/)
+   div:
+    div:
+     h4 : Client-Centricity and Empowermen 
+     p : NOVA provides instant access to end-client information, and empowers clients with self-service capabilities. 
+    span : Know More (https://nova.contemi.com/contact-us/)
+  p : Amidst increasingly intricate trading landscape marked by cost constraints and regulatory hurdles, there's an urgent need to quickly adopt post-trade automation solutions to reduce expenses and streamline processes. With NOVA Post Trade+, brokers have the opportunity to enhance efficiency and achieve cost savings by optimizing their utilization of current investments and adhering to suggested best practices, both for themselves and their clients. 
+  div:
+   h2 : Seize Command of Your Business Operations While Empowering Your Customers to Govern Their Own 
+   div:
+    div:
+     div : Everything You Need in One System 
+     div : Improved Operational Efficiency 
+     div : Empower Your Customers 
+    div:
+     div : Everything You Need in One System 
+     p : “NOVA post-trade technology is a comprehensive capital markets solution that includes middle and back office processing, clearing, and settlement. NOVA facilitates complete automation of the post-trade lifecycle, enabling low-touch processing from trade agreement through to settlement finality. “ 
+     div : Improved Operational Efficiency 
+     p : With NOVA, brokers can streamline their workflows and integrate technology to simplify processes, greatly reduce transaction failures, and avoid regulatory penalties. It supports multiple asset clasees, currencies, and settlement connections, enabling brokers to centralize their global settlements and back-office operations within a single platform. 
+     div : Empower Your Customers 
+     p : Brokers can connect with their global client base, including extending services to existing clients who currently manage manual processes. The browser-based UI od NOVA platform allows users to access the application from web browsers, as well as mobile devices. Multi-layered architecture reduces exposure of sensitive data to the client-side. 
+  div:
+   div:
+    div:
+     span : Improve Operational Efficiency 
+     p : with automated Striaght Through Processing and multi tier architecture 
+    div:
+     span : Reduce Cost 
+     p : operate more efficiently, and minimise risk with cloud-hosted infrastructure 
+   div:
+    div:
+     span : Scalable & Future-Ready 
+     p : with multi tier architecture enabling load balancing and increased security 
+    div:
+     span : Lower Security Risks 
+     p : multi tier architecture that isolates critical data under several encrypted layers 
+   div:
+    div:
+     span : Strong Clearing & settlement 
+     p : ecosystem with direct interface with all major CSDs across APAC 
+    div:
+     span : Improve Compliance 
+     p : to ever-eveolving regulatory requirements across multiple jurisdictions 
+  h2 : Friends We've Made 
+  span : Contact Us for More Details 
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)

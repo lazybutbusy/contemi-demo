@@ -1,0 +1,235 @@
+URL: https://nova.contemi.com/fractional-trading-malaysias-step-investing/#respond
+div:
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ ul:
+  li:
+   span : Who We Serve 
+   ul:
+    span : Institutional Brokers (https://nova.contemi.com/institutional-broker-post-trade-management/)
+    span : Retail Brokers (https://nova.contemi.com/retail-broker-post-trade-management/)
+  li:
+   span : Solutions (#)
+   ul:
+    span : Managed Services (https://nova.contemi.com/automated-post-trade-solutions/)
+    span : E-Invoicing (https://nova.contemi.com/e-invoicing/)
+    li:
+     span : Nova CORE 
+     ul:
+      span : Trading (https://nova.contemi.com/nova-trading/)
+      span : Settlement (https://nova.contemi.com/post-trade-settlement/)
+      span : Reporting Services (https://nova.contemi.com/post-trade-reporting/)
+    span : Nova Accounting (https://nova.contemi.com/post-trade-accounting/)
+    span : Nova Corporate Actions (https://nova.contemi.com/corporate-actions/)
+    span : Nova Custody (https://nova.contemi.com/nova-custody/)
+    span : Nova Payments (https://nova.contemi.com/nova-payments/)
+    span : Nova Margin (https://nova.contemi.com/nova-margin/)
+    span : Nova SBL (https://nova.contemi.com/nova-sbl/)
+    span : Nova RPA (https://nova.contemi.com/rpa-nova/)
+    span : Nova Digital Assets (https://nova.contemi.com/nova-digital-assets/)
+  li:
+   span : About Us (https://nova.contemi.com/about-nova-post-trade/)
+   ul:
+    span : Meet the Team (https://nova.contemi.com/nova-post-trade-team/)
+    span : About Contemi (https://nova.contemi.com/about-nova-post-trade/)
+    span : Careers (https://nova.contemi.com/career-at-nova-post-trade/)
+    span : Partners (https://nova.contemi.com/nova-post-trade-partners/)
+    span : Accreditations (https://nova.contemi.com/nova-post-trade-achievement/)
+  li:
+   span : Insights (#)
+   ul:
+    span : Press Releases (https://nova.contemi.com/nova-post-trade-press-release/)
+    span : Articles (https://nova.contemi.com/nova-post-trade-articles/)
+    span : Blogs (https://nova.contemi.com/blogs/)
+  span : Contact Us (https://nova.contemi.com/contact-nova-post-trade/)
+ div:
+  h3 : Nova Post Trade 
+  div:
+   div:
+    div:
+     div:
+      div:
+       h3 : Fractional Trading: Malaysia’s Exciting Step Forward In Investing 
+       div:
+        a : August 25, 2023 (https://nova.contemi.com/2023/08/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+        div:
+         span : By 
+         a : Gopala Subramanium (https://nova.contemi.com/author/gopala-subramanium/)
+      div:
+       a : Trinity Audio (//trinityaudio.ai)
+       div:
+        p : The end of 2023 will mark a pivotal moment in Malaysia’s stock market, with the government’s recent announcement to unveil fractional trading. The honourable Prime Minister and Minister of Finance, Dato’ Seri Anwar bin Ibrahim, announced on July 27th, 2023, that his government will allow trading of smaller share lots and fractional shares making investments affordable. “There will be more retail investors out there who can afford to buy shares…and I believe this will boost the Malaysian capital market,” said Deputy Finance Minister Datuk Seri Ahmad Maslan at a press conference at the Bursa Marketplace Fair 2023 on August 5th. 
+        p : This breakthrough development has the potential to revolutionize the market, making it more accessible and efficient for retail investors, thereby fostering increased liquidity, confidence, and economic progress. 
+        h3 : UNDERSTANDING FRACTIONAL TRADING? 
+        p : Fractional trading is a transformative approach that allows investors to buy or sell company shares in smaller denominations than the conventional board lot size. This initiative will make retail investors’ access to blue chip stocks easier. Now, even the shares of top-tier companies like AirAsia or Petronas become accessible without demanding a hefty investment. 
+        h4 : BENEFITS TO INVESTORS 
+        ul:
+         strong : Affordability: 
+         strong : Diversification: 
+         strong : Flexibility: 
+        h4 : THE POSITIVE IMPACT ON MARKETS 
+        ul:
+         strong : Liquidity Boost: 
+         strong : New Investor Attraction: 
+         strong : Accessibility: 
+        h3 : A GLIMPSE AT HISTORICAL PRECEDENTS 
+        p : The concept of fractional trading isn’t entirely new and has proven successful in various countries such as the United States, Canada, Australia, the United Kingdom, and Singapore. Wherever the concept is implemented, it has simplified investment initiation, diversified investment opportunities, and fostered liquidity and fair pricing. 
+        h3 : POSSIBLE RISKS, CHALLENGES & MITIGATION 
+        table:
+         tr:
+          th : Risks, Challenges 
+          th : Mitigation 
+         tbody:
+          tr:
+           th : Liquidity 
+           td : Potential difficulty in finding fractional share buyers and sellers. 
+           td : Encouraging more stock listings. 
+          tr:
+           th : Pricing 
+           td : The lack of a standard pricing method for fractional shares. 
+           td : Development of a standardized pricing approach. 
+          tr:
+           th : Regulation 
+           td : Legal framework adaptation to accommodate fractional trading. 
+           td : Collaborative regulation development with the stock exchange. 
+          tr:
+           th : Technology 
+           td : Technology Need for settlement systems for fractional trades. 
+           td : Partnerships with tech companies. 
+          tr:
+           th : Customer Awareness 
+           td : Need for investor education and promotion. 
+           td : Educational content creation and marketing campaigns. 
+        h3 : GOVERNMENT’S PARTICIPATION 
+        p : Fractional trading represents an inspiring and optimistic change for Bursa Malaysia, laying the groundwork for an invigorated financial landscape. It’s a significant step, but there’s also an exciting opportunity for the government to take further action. By enhancing the profitability of listed companies and elevating the overall transparency and efficiency of the market, we can look forward to a thriving investment climate in Malaysia. Together with comprehensive strategies like support incentives, the country is poised to cultivate sustainable, long-term investment opportunities that benefit all. 
+        h3 : CONCLUSION 
+        p : Fractional trading marks a promising horizon for the Malaysian capital market, paving the way for more inclusive and affordable retail investing. But a holistic approach, focusing on overall market health, is vital. 
+        p : A well-designed post-trade settlement solution like Nova+, already successful in Singapore market, can be the catalyst for smooth fractional trading. Contemi’s innovative solutions like Nova+ reiterate its unwavering commitment to nurturing capital markets. 
+      div:
+       span : Share 
+       div:
+        a : capitalmarkets (https://nova.contemi.com/tag/capitalmarkets/)
+        a : contemi (https://nova.contemi.com/tag/contemi/)
+        a : financialmarkets (https://nova.contemi.com/tag/financialmarkets/)
+        a : Fractionaltrading (https://nova.contemi.com/tag/fractionaltrading/)
+        a : investingforbeginners (https://nova.contemi.com/tag/investingforbeginners/)
+        a : investment (https://nova.contemi.com/tag/investment/)
+        a : malaysianstockmarket (https://nova.contemi.com/tag/malaysianstockmarket/)
+        a : novaplus (https://nova.contemi.com/tag/novaplus/)
+        a : posttradesettlement (https://nova.contemi.com/tag/posttradesettlement/)
+        a : retailinvesting (https://nova.contemi.com/tag/retailinvesting/)
+        a : singaporestockmarket (https://nova.contemi.com/tag/singaporestockmarket/)
+        a : stockmarketinvesting (https://nova.contemi.com/tag/stockmarketinvesting/)
+     div:
+      span : Gopala Subramanium (https://nova.contemi.com/author/gopala-subramanium/)
+      p : CEO – Capital Market Solutions & Group CFO 
+     div:
+      span:
+       span : Ai, Ml, Rpa In Po... 
+       span : April 7, 2022 
+      span:
+       span : Shaping The Futur... 
+       span : September 29, 2023 
+     div:
+      a : Cancel reply (/fractional-trading-malaysias-step-investing/#respond)
+      form:
+       p:
+        span : Your email address will not be published. 
+        span : * 
+       label : Save my name, email, and website in this browser for the next time I comment. 
+       span : Post Comment 
+    aside:
+     label : Search 
+     div:
+      div:
+       a : Accelerating Migration to Production with RPA in Post-Trade Clearing and Settlement (https://nova.contemi.com/accelerating-migration-to-production-with-rpa-in-post-trade-clearing-and-settlement/)
+       div:
+        a : December 3, 2024 (https://nova.contemi.com/2024/12/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       a : Transforming Finance in Asia-Pacific: How Digital Assets and Post-Trade Automation are Shaping the Future (https://nova.contemi.com/transforming-finance-in-asia-pacific-how-digital-assets-and-post-trade-automation-are-shaping-the-future/)
+       div:
+        a : November 26, 2024 (https://nova.contemi.com/2024/11/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+      div:
+       a : Enhancing Post-Trade Management with NOVA: A Comprehensive Solution for Institutional and Retail Brokers (https://nova.contemi.com/nova-post-trade-management-solution-for-brokers/)
+       div:
+        a : November 14, 2024 (https://nova.contemi.com/2024/11/)
+        a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      h5 : Categories 
+      ul:
+       a : Articles (https://nova.contemi.com/category/articles/)
+       a : Press Releases (https://nova.contemi.com/category/press-releases/)
+   div:
+    h3 : Related posts 
+    div:
+     div:
+      a : Transforming Finance in Asia-Pacifi... (https://nova.contemi.com/transforming-finance-in-asia-pacific-how-digital-assets-and-post-trade-automation-are-shaping-the-future/)
+      a : November 26, 2024 (https://nova.contemi.com/2024/11/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : Accelerating Migration to Productio... (https://nova.contemi.com/accelerating-migration-to-production-with-rpa-in-post-trade-clearing-and-settlement/)
+      a : December 3, 2024 (https://nova.contemi.com/2024/12/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+     div:
+      a : Enhancing Post-Trade Management wit... (https://nova.contemi.com/nova-post-trade-management-solution-for-brokers/)
+      a : November 14, 2024 (https://nova.contemi.com/2024/11/)
+      a : Articles (https://nova.contemi.com/category/articles/)
+ footer:
+  div:
+   p : A smart and professional solution for all traders. 
+   div:
+    h5 : Contact Info 
+    span : 120 Robinson Road, #15-01, Singapore 068913 
+    span : Singapore 
+    span : info@contemi.com 
+    span : +65 6340 1027 
+   div:
+    h5 : Quick Links 
+    p:
+     a : Home (https://nova.contemi.com/)
+     a : Articles (https://nova.contemi.com/articles/)
+     a : Insights (https://nova.contemi.com/blog/)
+     a : About Us (https://nova.contemi.com/about-us/)
+     a : Contact Us (https://nova.contemi.com/contact-us/)
+  a : Nova Post Trade (https://nova.contemi.com/)
