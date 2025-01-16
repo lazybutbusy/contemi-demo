@@ -26,7 +26,7 @@ python server.py
 ```
 
 ## Step 5: Deploy UI
-Using OllamaUI, install it from [this link](https://ollama.com/download/linux), then run:
+Using Open-WebUI, install it from [this link](https://ollama.com/download/linux), then run:
 ```
 open-webui serve
 ```
